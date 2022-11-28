@@ -34,6 +34,44 @@ const StudentInfo = {
       "She utilizes a brown and white H&K MP5K which also has a choco-mint keychain tucked in her bag, but as a Specialist she instead throws her gumbo Choco-mint ice cream.",
   },
 
+  akane: {
+    fName: "Akane",
+    lName: "Murokasa",
+    jpName: "室笠アカネ",
+    quote: "Now, shall we begin? It's Cleaning Time.",
+    icon:
+      "https://static-new.miraheze.org/bluearchivewiki/a/aa/Akane.png?version=d59747ed97986fa4e496e488d9b05c03",
+    icon1:
+      "https://static.wikia.nocookie.net/blue-archive/images/4/47/Akane_Icon.png",
+    portrait:
+      "https://static.wikia.nocookie.net/blue-archive/images/6/61/Akane_Portrait.png",
+    sprite:
+      "https://static.wikia.nocookie.net/blue-archive/images/1/1a/Akane_Sprite.png",
+    halo:
+      "https://static.wikia.nocookie.net/blue-archive/images/0/0a/Akane_Halo.png",
+    firearm:
+      "https://static.wikia.nocookie.net/blue-archive/images/9/93/Akane_UE.png",
+
+    uniqueItem: "",
+    introduction:
+      'An agent of the Millennium\'s secret organization, C&C. Her codename is "zero-three", an essential employee at "cleaning up".' +
+      "\n" +
+      'She is known by the nickname "Sweeper Master" for her ability to infiltrate enemy lines with a deceivingly tender impression and gracefully yet explosively "clean out" the enemy.',
+    personality:
+      "Akane is caring in Sensei's presence. she seems to care for Neru, but as we all know, Neru doesn't need help from anybody.",
+    appearance:
+      "She wears a Japanese maid outfit, but with a longer skirt with twoblue stripes on the bottom. She has long pale blonde hair. She also carries a big black box that carries what apears to be rigged TNT, or another explosive",
+    haloInfo:
+      "Akane's halo has a gray crosshair with edges inside along with a bigger circle with dashed tabs merged on the outside.",
+    uniform:
+      "She has beige hair with loose hairlines tied in blue ribbon reaching to her waist and wears a French maid headdress and a black glasses. She has soft gray eyes." +
+      "\n" +
+      "She wears a typical French maid uniform with blue tie, and long sleeves, and long white stockings with black maid shoes. She also wearing a beige plaid scarf around her arms.",
+    firearmInfo: "A pistol that Akane always carries." + "\n" +
+      "It has a name that contrasts with the explosives that she usually uses.",
+    firearmName: "Silent Solution",
+  },
+
   aru: {
     fName: "Aru",
     lName: "Rikuhachima",
