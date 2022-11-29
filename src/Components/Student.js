@@ -11,7 +11,7 @@ const Student = ({studentKey,  setSelectedStudent}) => {
     <div className="flex flex-col justify-center items-center gap-1"
         onClick={clickHandler}
     >
-      <img className="shadow-blue shadow-sm" src={student.icon} alt ="" />
+      <img className="drop-shadow-md" src={student.icon} alt ="" />
       <span className="font-semibold">{student.fName}</span>
     </div>
   )

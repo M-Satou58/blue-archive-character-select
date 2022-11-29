@@ -1,6 +1,6 @@
 const InfoBox = ({image}) => {
   return (
-    <div className="w-20 h-20 rounded-md shadow-blue shadow-sm bg-white">
+    <div className="w-16 h-16 rounded-md shadow-blue shadow-md bg-white">
 
     <img className="h-full w-full object-cover" src={image} alt="" />
     </div>
