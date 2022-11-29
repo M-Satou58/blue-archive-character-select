@@ -76,6 +76,9 @@ const StudentInfo = {
       "https://static.wikia.nocookie.net/blue-archive/images/4/48/Akane_Live2D.gif",
     l2dIcon:
       "https://static.wikia.nocookie.net/blue-archive/images/8/8e/Akane_Icon_2.png",
+    voice:
+      "https://static.wikia.nocookie.net/blue-archive/images/9/95/Akane_LogIn_2.ogg",
+    trivia: "",
   },
 
   akari: {
@@ -234,6 +237,9 @@ const StudentInfo = {
       "https://static.wikia.nocookie.net/blue-archive/images/2/2d/Aru_Live2D.gif",
     l2dIcon:
       "https://static.wikia.nocookie.net/blue-archive/images/b/bd/Aru_Icon_2.png",
+    voice: "",
+    trivia:
+      "Aru's Japanese voice actress is Kondō Reina. Some of her recognizable roles include Ronie Arabel from Sword Art Online: Alicization, Hana Ichinose from Slow Start and Kazano Hiori from The Idolmaster: Shiny Colors.",
   },
 
   asuna: {

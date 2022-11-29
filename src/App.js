@@ -1,7 +1,7 @@
 import { useState } from 'react'
 import Student from './Components/Student.js'
 import InfoBox from './Components/InfoBox.js'
-import Portrait from './Components/Personality.js'
+import Portrait from './Components/Portrait.js'
 import Appearance from './Components/Appearance.js'
 import Halo from './Components/Halo.js'
 import Firearm from './Components/Firearm.js'
@@ -86,7 +86,8 @@ function App() {
   return (
     <div className="flex justify-center gap-4 py-10 text-black w-full h-full">
 
-      <div className="flex flex-col justify-center items-center" style={{maxWidth: '450px', maxHeight: '560px'}}>
+      <div className="flex flex-col justify-center items-center"
+        style={{minWidth: '450px', minHeight: '560px',maxWidth: '450px', maxHeight: '560px'}}>
         <h1 className="text-2xl text-center font-bold" style={{letterSpacing:'1rem'}}>SELECT A <br />STUDENT</h1>
         <div className="grid grid-cols-4 gap-y-2 gap-x-4 mt-2 p-4 
           bg-white shadow-blue shadow-sm overflow-scroll rounded-lg scrollbar-hide"
@@ -100,7 +101,8 @@ function App() {
           })}
         </div>
       </div>
-      <div className="flex flex-col gap-4 " style={{maxWidth: '400px', maxHeight: '550px'}}>
+      <div className="flex flex-col gap-4 "
+        style={{minWidth: '400px', minHeight: '550px', maxWidth: '400px', maxHeight: '550px'}}>
         <div className="flex justify-between gap-3" style={{minWidth: '400px'}}>
           <div className="flex flex-grow justify-center relative"> 
           {togglePortrait && <Portrait selectedStudent={selectedStudent}/>}
@@ -112,32 +114,45 @@ function App() {
  
           </div>
           <div className="flex flex-col gap-2">
-            <div className={`${togglePortrait ? 'animate-pulse' : ''}`} onClick={() => toggleHandler('portrait')}>
-
+            {selectedStudent.icon1 &&
+              <div className={`${togglePortrait ? 'animate-pulse' : ''}`} onClick={() => toggleHandler('portrait')}>
                  <InfoBox image={selectedStudent.icon1}/>
-            </div>
-            <div className={`${toggleAppearance ? 'animate-pulse' : ''}`} onClick={() => toggleHandler('appearance')}>
+              </div>}
+
+            {selectedStudent.sprite && 
+              <div className={`${toggleAppearance ? 'animate-pulse' : ''}`} onClick={() => toggleHandler('appearance')}>
                 <InfoBox image={selectedStudent.sprite}/>
-            </div>
-            <div className={`${toggleHalo ? 'animate-pulse' : ''}`} onClick={() => toggleHandler('halo')}>
+              </div>}
+
+            {selectedStudent.halo &&
+              <div className={`${toggleHalo ? 'animate-pulse' : ''}`} onClick={() => toggleHandler('halo')}>
                 <InfoBox image={selectedStudent.halo}/>
-            </div>
-            <div className={`${toggleFirearm ? 'animate-pulse' : ''}`} onClick={() => toggleHandler('firearm')}>
+              </div>}
+        
+            {selectedStudent.firearm &&
+              <div className={`${toggleFirearm ? 'animate-pulse' : ''}`} onClick={() => toggleHandler('firearm')}>
                 <InfoBox image={selectedStudent.firearm}/>
-            </div>
-            <div className={`${toggleUniqueItem ? 'animate-pulse' : ''}`} onClick={() => toggleHandler('uniqueItem')}>
-                <InfoBox image={selectedStudent.uniqueItem}/>
-            </div>
-            <div className={`${toggleL2D ? 'animate-pulse' : ''}`} onClick={() => toggleHandler('l2d')}>
+              </div>}
+
+            {selectedStudent.l2dIcon &&
+              <div className={`${toggleL2D ? 'animate-pulse' : ''}`} onClick={() => toggleHandler('l2d')}>
                 <InfoBox image={selectedStudent.l2dIcon}/>
-            </div>
+            </div>}
           </div>
         </div>
         <div className="bg-white rounded-md text-center shadow-blue shadow-sm" >
           <div className="bg-blue font-semibold text-white text-2xl rounded-t-md p-2">
             <h1>{selectedStudent.fName+" "+selectedStudent.lName}</h1>
         </div>
-          <p className="px-4 py-2 text-xl">{`“ ${selectedStudent.quote} ”`}</p>
+          <p className="px-4  py-2 text-xl overflow-auto scrollbar-hide" style={{height: '70px'}}>{`“ ${selectedStudent.quote} ”`}</p>
+        </div>
+        
+        <div className="w-full">
+          <audio controls className="w-full ">
+             <source src="https://static.wikia.nocookie.net/blue-archive/images/7/78/Aru_LogIn_2.ogg" type="audio/ogg" />
+            Your browser does not support the audio element.
+          </audio>
+    
         </div>
 
       </div>

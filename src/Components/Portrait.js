@@ -1,28 +1,20 @@
-import SmallInfoBox from './SmallInfoBox.js'
-
-const searchIcon = "https://img.icons8.com/ios-glyphs/30/null/search--v1.png"
-const heartIcon = "https://img.icons8.com/ios-glyphs/30/null/filled-like.png"
-const pictureIcon = "https://img.icons8.com/ios-glyphs/30/null/picture.png"
-const volumeIcon = "https://img.icons8.com/ios-glyphs/30/null/medium-volume.png"
-
-
+import "./cardFlip.css"
 const Portrait = ({selectedStudent}) => {
   return (
-    <div className="flex justify-center flex-grow">
-      <img src={selectedStudent.portrait} alt="" />
-      <div className="w-full absolute bottom-0 flex justify-between">
-          <div className="flex gap-2">
-            <SmallInfoBox image={searchIcon} />
-            <SmallInfoBox image={heartIcon} />
-          </div>
-              <div className="flex gap-2">
-                <SmallInfoBox image={pictureIcon} />
-                <SmallInfoBox image={volumeIcon} />
-              </div>
-          </div>
-
+    <div class="card rounded-md" style={{height: '355px'}}>
+      <div class="content shadow-blue rounded-md shadow-sm">
+        <div class="front flex w-full h-full justify-center p-4">
+          <img className=""src={selectedStudent.portrait} alt="" />
+      </div>
+     <div class="back p-4 rounded-md overflow-auto scrollbar-hide">
+        <h1 className="text-2xl px-2 bg-black">Introduction</h1>
+        <p className="mt-2" style={{letterSpacing: '2px'}}>{selectedStudent.introduction}</p>
+        <h1 className="text-2xl px-2 mt-2 bg-black">Personality</h1>
+        <p className="mt-2" style={{letterSpacing: '2px'}}>{selectedStudent.personality}</p>
+     </div>
     </div>
+  </div>
   )
 }
 
-export default Portrait
+export default Portrait 
