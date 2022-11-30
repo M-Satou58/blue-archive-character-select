@@ -5,7 +5,6 @@ import Portrait from './Components/Portrait.js'
 import Appearance from './Components/Appearance.js'
 import Halo from './Components/Halo.js'
 import Firearm from './Components/Firearm.js'
-import UniqueItem from './Components/UniqueItem.js'
 import L2D from './Components/L2D.js'
 import Name from './Components/Name.js'
 import Voice from './Components/Voice.js'
@@ -17,7 +16,6 @@ function App() {
   const [toggleAppearance, setToggleAppearance] = useState(false)
   const [toggleHalo, setToggleHalo] = useState(false)
   const [toggleFirearm, setToggleFirearm] = useState(false)
-  const [toggleUniqueItem, setToggleUniqueItem] = useState(false)
   const [toggleL2D, setToggleL2D] = useState(false)
   const StudentInfoKeys = Object.keys(StudentInfo)
 
@@ -31,7 +29,6 @@ function App() {
         setToggleAppearance(false)
         setToggleHalo(false)
         setToggleFirearm(false)
-        setToggleUniqueItem(false)
         setToggleL2D(false)
         break
 
@@ -40,7 +37,6 @@ function App() {
         setToggleAppearance(true)
         setToggleHalo(false)
         setToggleFirearm(false)
-        setToggleUniqueItem(false)
         setToggleL2D(false)
 
         break
@@ -49,7 +45,6 @@ function App() {
         setToggleAppearance(false)
         setToggleHalo(true)
         setToggleFirearm(false)
-        setToggleUniqueItem(false)
         setToggleL2D(false)
 
         break
@@ -59,7 +54,6 @@ function App() {
         setToggleAppearance(false)
         setToggleHalo(false)
         setToggleFirearm(true)
-        setToggleUniqueItem(false)
         setToggleL2D(false)
 
         break
@@ -69,7 +63,6 @@ function App() {
         setToggleAppearance(false)
         setToggleHalo(false)
         setToggleFirearm(false)
-        setToggleUniqueItem(true)
         setToggleL2D(false)
         break
 
@@ -78,7 +71,6 @@ function App() {
         setToggleAppearance(false)
         setToggleHalo(false)
         setToggleFirearm(false)
-        setToggleUniqueItem(false)
         setToggleL2D(true)
         break
       default:
@@ -102,6 +94,11 @@ function App() {
                       key={i} 
                       studentKey={StudentInfo[key]}
                       setSelectedStudent={setSelectedStudent}
+                      setTogglePortrait={setTogglePortrait}
+                      setToggleAppearance={setToggleAppearance}
+                      setToggleHalo={setToggleHalo}
+                      setToggleFirearm={setToggleFirearm}
+                      setToggleL2D={setToggleL2D}
                       />
           })}
         </div>
@@ -114,7 +111,6 @@ function App() {
           {toggleAppearance && <Appearance selectedStudent={selectedStudent}/>}
           {toggleHalo && <Halo selectedStudent={selectedStudent}/>}
           {toggleFirearm && <Firearm selectedStudent={selectedStudent}/>}
-          {toggleUniqueItem && <UniqueItem selectedStudent={selectedStudent}/>}
           {toggleL2D && <L2D selectedStudent={selectedStudent}/>}
  
           </div>

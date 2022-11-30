@@ -1,9 +1,22 @@
-const Student = ({studentKey,  setSelectedStudent}) => {
+const Student = ({
+  studentKey,
+  setSelectedStudent,
+  setTogglePortrait,
+  setToggleAppearance,
+  setToggleHalo,
+  setToggleFirearm,
+  setToggleL2D,
+}) => {
 
   const student = studentKey 
 
   const clickHandler = () => {
     setSelectedStudent(student)
+    setTogglePortrait(true)
+    setToggleAppearance(false)
+    setToggleHalo(false)
+    setToggleFirearm(false)
+    setToggleL2D(false)
    }
 
 
