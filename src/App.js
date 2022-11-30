@@ -7,7 +7,10 @@ import Halo from './Components/Halo.js'
 import Firearm from './Components/Firearm.js'
 import UniqueItem from './Components/UniqueItem.js'
 import L2D from './Components/L2D.js'
+import Name from './Components/Name.js'
+import Voice from './Components/Voice.js'
 import StudentInfo from './StudentInfo.js'
+
 function App() {
   const [selectedStudent, setSelectedStudent] = useState(StudentInfo['aru'])
   const [togglePortrait, setTogglePortrait] = useState(true)
@@ -17,6 +20,8 @@ function App() {
   const [toggleUniqueItem, setToggleUniqueItem] = useState(false)
   const [toggleL2D, setToggleL2D] = useState(false)
   const StudentInfoKeys = Object.keys(StudentInfo)
+
+  var voice = new Audio(selectedStudent.voice)
 
 
   const toggleHandler = (toggle) => {
@@ -140,21 +145,9 @@ function App() {
             </div>}
           </div>
         </div>
-        <div className="bg-white rounded-md text-center shadow-blue shadow-sm" >
-          <div className="bg-blue font-semibold text-white text-2xl rounded-t-md p-2">
-            <h1>{selectedStudent.fName+" "+selectedStudent.lName}</h1>
-        </div>
-          <p className="px-4  py-2 text-xl overflow-auto scrollbar-hide" style={{height: '70px'}}>{`“ ${selectedStudent.quote} ”`}</p>
-        </div>
+        <Name selectedStudent={selectedStudent} />
+        <Voice voice={voice} /> 
         
-        <div className="w-full">
-          <audio controls className="w-full ">
-             <source src="https://static.wikia.nocookie.net/blue-archive/images/7/78/Aru_LogIn_2.ogg" type="audio/ogg" />
-            Your browser does not support the audio element.
-          </audio>
-    
-        </div>
-
       </div>
     </div>
 

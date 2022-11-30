@@ -119,6 +119,10 @@ const StudentInfo = {
       "https://static.wikia.nocookie.net/blue-archive/images/4/4c/Akari_Live2D.gif",
     l2dIcon:
       "https://static.wikia.nocookie.net/blue-archive/images/1/14/Akari_Icon_2.png",
+    voice:
+      "https://static.wikia.nocookie.net/blue-archive/images/5/5f/Akari_LogIn_1.ogg",
+    trivia:
+      "Due to her appearance, many players (especially those who are aware or watch Vtuber streams) will note she looks like Tsunomaki Watame from Hololive.",
   },
 
   ako: {
@@ -156,6 +160,9 @@ const StudentInfo = {
       "https://static.wikia.nocookie.net/blue-archive/images/6/6a/Ako_Live2D.gif",
     l2dIcon:
       "https://static.wikia.nocookie.net/blue-archive/images/8/80/Ako_Icon_2.png",
+    trivia: "",
+    voice:
+      "https://static.wikia.nocookie.net/blue-archive/images/1/1c/Ako_LogIn_2.ogg",
   },
 
   alice: {
@@ -197,6 +204,10 @@ const StudentInfo = {
       "https://static.wikia.nocookie.net/blue-archive/images/2/29/Alice_Live2D.gif",
     l2dIcon:
       "https://static.wikia.nocookie.net/blue-archive/images/9/9e/Alice_Icon_2.png",
+    trivia:
+      'Her codename was spelled AL-1S in her Story, which contradict her names globally. As Japanese, her name is "Tendou Arisu", while in English her name is "Tendou Alice".',
+    voice:
+      "https://static.wikia.nocookie.net/blue-archive/images/1/16/Alice_LogIn_2.ogg",
   },
 
   aru: {
@@ -237,9 +248,10 @@ const StudentInfo = {
       "https://static.wikia.nocookie.net/blue-archive/images/2/2d/Aru_Live2D.gif",
     l2dIcon:
       "https://static.wikia.nocookie.net/blue-archive/images/b/bd/Aru_Icon_2.png",
-    voice: "",
     trivia:
       "Aru's Japanese voice actress is Kondō Reina. Some of her recognizable roles include Ronie Arabel from Sword Art Online: Alicization, Hana Ichinose from Slow Start and Kazano Hiori from The Idolmaster: Shiny Colors.",
+    voice:
+      "https://static.wikia.nocookie.net/blue-archive/images/7/78/Aru_LogIn_2.ogg",
   },
 
   asuna: {
@@ -279,6 +291,9 @@ const StudentInfo = {
     uniqueItemInfo: "",
     l2d: "",
     l2dIcon: "",
+    trivia: "",
+    voice:
+      "https://static.wikia.nocookie.net/blue-archive/images/d/d6/Asuna_LogIn_2.ogg",
   },
 
   atsuko: {
@@ -361,6 +376,9 @@ const StudentInfo = {
       "https://static.wikia.nocookie.net/blue-archive/images/6/6c/Ayane_Icon_2.png",
     uniqueItem: "",
     uniqueItemInfo: "",
+    trivia: "",
+    voice:
+      "https://static.wikia.nocookie.net/blue-archive/images/f/fb/Ayane_LogIn_2.ogg/",
   },
 
   asuza: {
@@ -403,6 +421,10 @@ const StudentInfo = {
       "https://static.wikia.nocookie.net/blue-archive/images/1/1c/Azusa_Icon_2.png",
     uniqueItem: "",
     uniqueItemInfo: "",
+    voice:
+      "https://static.wikia.nocookie.net/blue-archive/images/7/76/Azusa_LogIn_1.ogg",
+    trivia:
+      "Azusa's concept shares similarities to British SAS (Special Air Service) due to sharing some elements like being proficient with IEDs and ambushes, using similar gas mask and carries a M4A1 (L119A2 configuration in UKSF's service).",
   },
 
   cherino: {
@@ -446,6 +468,9 @@ const StudentInfo = {
       "https://static.wikia.nocookie.net/blue-archive/images/8/88/Cherino_Icon_2.png",
     uniqueItem: "",
     uniqueItemInfo: "",
+    trivia:
+      'She refers to sensei as "kamuraddo" which means "Comrade" however, she pronounced it a little differently as the katakana for comrade is written as "コムレード" (Komurēdo), but she pronounced it as "カムラッド" (kamuraddo).',
+    voice: "",
   },
 
   chihiro: {
@@ -484,6 +509,9 @@ const StudentInfo = {
       "https://static.wikia.nocookie.net/blue-archive/images/1/17/Chihiro_Icon_2.png",
     uniqueItem: "",
     uniqueItemInfo: "",
+    trivia: "",
+    voice:
+      "https://static.wikia.nocookie.net/blue-archive/images/b/b0/Chihiro_LogIn_2_2.ogg",
   },
 
   chinatsu: {
@@ -526,6 +554,9 @@ const StudentInfo = {
     l2dIcon: "",
     uniqueItem: "",
     uniqueItemInfo: "",
+    triva: "",
+    voice:
+      "https://static.wikia.nocookie.net/blue-archive/images/a/a1/Chinatsu_LogIn_1.ogg",
   },
 
   chise: {
@@ -608,6 +639,9 @@ const StudentInfo = {
       "https://static.wikia.nocookie.net/blue-archive/images/7/77/Eimi_Icon_2.png",
     uniqueItem: "",
     uniqueItemInfo: "",
+    trivia: "",
+    voice:
+      "https://static.wikia.nocookie.net/blue-archive/images/a/a9/Eimi_LogIn_1.ogg",
   },
 
   fubuki: {
@@ -649,6 +683,9 @@ const StudentInfo = {
       "https://static.wikia.nocookie.net/blue-archive/images/7/77/Fubuki_Icon_2.png",
     uniqueItem: "",
     uniqueItemInfo: "",
+    trivia:
+      'True to her sleepy personality, her name "Nemu" means sleep and "gaki" means brat.',
+    voice: "",
   },
 
   fuuka: {
@@ -690,6 +727,183 @@ const StudentInfo = {
       "https://static.wikia.nocookie.net/blue-archive/images/0/00/Fuuka_Icon_2.png",
     uniqueItem: "",
     uniqueItemInfo: "",
+    trivia: "",
+    voice:
+      "https://static.wikia.nocookie.net/blue-archive/images/5/55/Fuuka_LogIn_1.ogg",
+  },
+
+  hanae: {
+    fName: "Hanae",
+    lName: "Asagao",
+    jpName: "朝顔ハナエ",
+    quote: "",
+    icon:
+      "https://static-new.miraheze.org/bluearchivewiki/thumb/7/72/Hanae.png/266px-Hanae.png",
+    icon1:
+      "https://static.wikia.nocookie.net/blue-archive/images/0/08/Hanae_Icon.png",
+    portrait:
+      "https://static.wikia.nocookie.net/blue-archive/images/d/d0/Hanae_Portrait.png",
+    sprite:
+      "https://static.wikia.nocookie.net/blue-archive/images/f/f8/Hanae_Sprite.png",
+    halo:
+      "https://static.wikia.nocookie.net/blue-archive/images/e/ef/Hanae_Halo.png",
+    introduction:
+      "A lively and cheerful freshwoman enrolled as a Knight Hospitaller for Order of the Relief at Trinity School." +
+      "\n" +
+      "She has a positive and lively personality, but tend to become overexcited when she finds a patient, usually making the situation worse. Despite being quite an eccentric character, strangely enough, patients who have received her care have all recovered right away no matter their illness.",
+    personality: "",
+    appearance: "",
+    uniform:
+      "She has lavender hair tied in long pigtails reaching to her legs, has medic-styled hair accessories and wears a nurse headdress. She has blue eyes." +
+      "\n" +
+      "She wears a pink jacket with white medic armband and a standard uniform; a black sailor dress with pink lines on the white collar and a Trinity logo can also be seen on the skirt underneath. She also carries a rabbit plush, toy syringe on her white stoking on the left leg, striped pink in her right and pink shoes with white soles.",
+    haloInfo:
+      "Hanae's halo is a pink heart with a hollowed cross inside another heart with wings with another smaller heart on the top.",
+    firearm:
+      "https://static.wikia.nocookie.net/blue-archive/images/5/52/Hanae_UE.png",
+    firearmInfo:
+      "An assault rifle that Hanae brings when she sees her patients." + "\n" +
+      "It is said that carrying this gun makes any patient smile (?).",
+    firearmName: "Happy Smiley",
+    l2d:
+      "https://static.wikia.nocookie.net/blue-archive/images/d/d1/Hanae_Live2D.gif",
+    l2dIcon:
+      "https://static.wikia.nocookie.net/blue-archive/images/4/48/Hanae_Icon_2.png",
+    uniqueItem: "",
+    uniqueItemInfo: "",
+    trivia: "",
+    voice: "",
+  },
+
+  hanako: {
+    fName: "Hanako",
+    lName: "Urawa",
+    jpName: "浦和ハナコ",
+    quote: "As expected of Sensei, you're amazing......!	",
+    icon:
+      "https://static-new.miraheze.org/bluearchivewiki/9/9c/Hanako.png?version=82d82f32a67143cc7f065155b9577512",
+    icon1:
+      "https://static.wikia.nocookie.net/blue-archive/images/f/f1/Hanako_Icon.png",
+    portrait:
+      "https://static.wikia.nocookie.net/blue-archive/images/3/34/Hanako_Portrait.png",
+    sprite:
+      "https://static.wikia.nocookie.net/blue-archive/images/6/6c/Hanako_Sprite.png",
+    halo:
+      "https://static.wikia.nocookie.net/blue-archive/images/8/83/Hanako_Halo.png/",
+    introduction:
+      "The problem child of the Supplementary Lesson Department. Despite her appearance, she's a student who only says naughty things when she talks, and her members always seem to be nervous...",
+    personality:
+      "She has a huge risqué behavior, doing things like attending classes in her swimsuit and having almost every word escape her mouth be a double entendre, which makes everyone uneasy around her. However, it's revealed she's very intelligent, and only acts bawdy to prevent the Sisterhood or Tea Party from trying to recruit her, as Hanako doesn't want to play their political games." +
+      "\n" +
+      "Regardless, Hanako is a very kind and generous girl.",
+    appearance: "",
+    uniform: "",
+    haloInfo: "",
+    firearm:
+      "https://static.wikia.nocookie.net/blue-archive/images/d/d4/Hanako_UE.png",
+    firearmInfo: "Hanako's assault rifle." + "\n" +
+      "When asking her about the origin of its name, she wouldn't say.",
+    firearmName: "Honest Wish",
+    l2d:
+      "https://static.wikia.nocookie.net/blue-archive/images/4/42/Hanako_Live2D.gif/",
+    l2dIcon:
+      "https://static.wikia.nocookie.net/blue-archive/images/7/7b/Hanako_Icon_2.png",
+    uniqueItem: "",
+    uniqueItemInfo: "",
+    trivia:
+      "She is the first student whose requires a bond level of 2 to unlock her Live2D. This makes her the second fastest Live2D to unlocked." +
+      "\n" +
+      "Her birthday is 3 January, same as Yakushi Saya.",
+    voice: "",
+  },
+
+  hare: {
+    fName: "Hare",
+    lName: "Omagari",
+    jpName: "小鈎ハレ",
+    quote: "Now, shall we try to stir it all up?",
+    icon:
+      "https://static-new.miraheze.org/bluearchivewiki/thumb/4/47/Hare.png/266px-Hare.png",
+    icon1:
+      "https://static.wikia.nocookie.net/blue-archive/images/7/7b/Hare_Icon.png",
+    portrait:
+      "https://static.wikia.nocookie.net/blue-archive/images/1/19/Hare_Portrait.png",
+    sprite:
+      "https://static.wikia.nocookie.net/blue-archive/images/3/3e/Hare_Sprite.png",
+    halo:
+      "https://static.wikia.nocookie.net/blue-archive/images/3/35/Hare_Halo.png",
+    introduction:
+      'The Engineer for a group of hackers "Veritas" at Millennium Science School. She\'s friendly to the other students and a good listener.' +
+      "\n" +
+      "She is one of the brightest minds at Millennium, and most of Millennium's cutting-edge devices have been developed by her. However, despite her ability and achievements, she doesn't go bragging about it.",
+    personality: "",
+    appearance: "",
+    uniform:
+      "She has silver, wavy hair below shoulder-length with bangs tied to a ponytail, accompanied with a black cross hair clip. She has dark olive eyes." +
+      "\n" +
+      "She wears a white lab coat with black rims, sleeve patches and buttons and a Millennium access badge tucked in the pocket, a black and olive hoodie underneath covering her black shorts with green belt and a yellow badge of Veritas logo on the collar. She also wears black shoes with olive rim and her firearm attached to her lab coat.",
+    haloInfo:
+      "Hare's halo is a yellow circle with gaps at the top, bottom left and bottom right. Inside of it there are three different sized black circles with three corresponding yellow circles within.",
+    firearm:
+      "https://static.wikia.nocookie.net/blue-archive/images/6/65/Hare_UE.png",
+    firearmInfo: "An assault rifle used by Hare." + "\n" +
+      "It is equipped with a variety of cutting-edge features such as an automatic sighting function, but she rarely uses it.",
+    firearmName: "Auto Aimer",
+    l2d:
+      "https://static.wikia.nocookie.net/blue-archive/images/b/b1/Hare_Live2D.gif",
+    l2dIcon:
+      "https://static.wikia.nocookie.net/blue-archive/images/9/9d/Hare_Icon_2.png",
+    uniqueItem:
+      "https://static.wikia.nocookie.net/blue-archive/images/8/8e/Hare_UI.png",
+    uniqueItemName: "Athena 3",
+    uniqueItemInfo: " A spherical drone that always hover around Hare." + "\n" +
+      "As its name, taken from the goddess of wisdom suggests, it is equipped with artificial intelligence that can experience and learn on its own, but it often works against the intentions of its master, Hare and disappoints her expectations.",
+    trivia: "",
+    voice:
+      "https://static.wikia.nocookie.net/blue-archive/images/c/ca/Hare_LogIn_2.ogg",
+  },
+
+  haruka: {
+    fName: "Haruka",
+    lName: "Igusa",
+    jpName: "伊草ハルカ",
+    quote: "Yes! I'll erase everything!",
+    icon:
+      "https://static-new.miraheze.org/bluearchivewiki/thumb/b/b1/Haruka.png/266px-Haruka.png",
+    icon1:
+      "https://static.wikia.nocookie.net/blue-archive/images/b/bd/Haruka_Icon.png",
+    portrait:
+      "https://static.wikia.nocookie.net/blue-archive/images/6/6e/Haruka_Portrait.png",
+    sprite:
+      "https://static.wikia.nocookie.net/blue-archive/images/a/a3/Haruka_Sprite.png",
+    halo:
+      "https://static.wikia.nocookie.net/blue-archive/images/4/4a/Haruka_Halo.png",
+    introduction:
+      'An "entry-level employee" of Problem Solver 68 and 1st year student at Gehenna Academy. Despite being shy and possessing cripplingly low self-esteem, her ideas and determination to commit any act makes her the scariest and most dangerous amongst the already erratic fixers.' +
+      "\n" +
+      "She has been bullied ever since childhood because of her dark and gloomy personality, but was able to escape that fate thanks to Aru. Currently, Haruka is the youngest member of Problem Solver 68.",
+    personality: "",
+    appearance: "",
+    uniform:
+      "She has a long scruffy purple hair on shoulder length with couple hairclips tied to each bangs which she also wears a purple navy hat. She has purple eyes." +
+      "\n" +
+      "She wears a violet admiral coat with a service badge on her left sleeve, a red suit underneath with black pleated skirt with a cross badge on her neck and long laced black boots. Her gold plated black belt is holding her school bag with a creepy rabbit doll keychain.",
+    haloInfo:
+      "Haruka's halo has three sharp purple needles with thorns on each side, forming a triangle.",
+    firearm:
+      "https://static.wikia.nocookie.net/blue-archive/images/d/d7/Haruka_UE.png",
+    firearmInfo: "A shotgun used by Haruka to exterminate pests." + "\n" +
+      'The definition of "pest" seems to be a case by case basis.',
+    firearmName: "Blow Away",
+    l2d:
+      "https://static.wikia.nocookie.net/blue-archive/images/a/a0/Haruka_Live2D.gif",
+    l2dIcon:
+      "https://static.wikia.nocookie.net/blue-archive/images/6/6b/Haruka_Icon_2.png",
+    uniqueItem: "",
+    uniqueItemInfo: "",
+    trivia: "",
+    voice:
+      "https://static.wikia.nocookie.net/blue-archive/images/4/47/Haruka_LogIn_1.ogg",
   },
 };
 

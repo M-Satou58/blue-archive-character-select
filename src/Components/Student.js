@@ -4,7 +4,8 @@ const Student = ({studentKey,  setSelectedStudent}) => {
 
   const clickHandler = () => {
     setSelectedStudent(student)
-  }
+   }
+
 
 
   return (
