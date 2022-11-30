@@ -9,7 +9,7 @@ const Appearance = ({selectedStudent}) => {
               <img className="" src={selectedStudent.sprite} alt="" />
            </div>    
         </div>
-        <div class="back p-4 rounded-md overflow-auto scrollbar-hide">
+        <div className="back p-4 rounded-md overflow-auto scrollbar-hide">
           <h1 className="px-2 text-2xl bg-black rounded-sm font-medium">Appearance</h1>
           <div className="mt-2 overflow-auto scrollbar-hide bg-blue rounded-b-md" style={{height:"300px"}}>
             {selectedStudent.appearance.map((text, i) => {

@@ -7,6 +7,7 @@ const Portrait = ({selectedStudent}) => {
           <img className=""src={selectedStudent.portrait} alt="" />
       </div>
      <div className="back p-4 rounded-md overflow-auto scrollbar-hide">
+
         <h1 className="text-2xl px-2 bg-black">Introduction</h1>
           {selectedStudent.introduction.map((text, i) => {
             return <p key={i} className="mx-2 my-4" style={{letterSpacing: '2px'}}>{text}</p>

@@ -1343,6 +1343,341 @@ const StudentInfo = {
     voice:
       "https://static.wikia.nocookie.net/blue-archive/images/1/10/Iori_LogIn_2.ogg",
   },
+
+  iroha: {
+    fName: "Iroha",
+    lName: "Natsume",
+    jpName: "棗イロハ",
+    quote: "Ahh... yeah, understood.	",
+    icon:
+      "https://static-new.miraheze.org/bluearchivewiki/b/bf/Iroha.png?version=03ef775c67f6cd088ca023ceabf87467",
+    icon1:
+      "https://static.wikia.nocookie.net/blue-archive/images/6/6a/Iroha_Icon.png",
+    portrait:
+      "https://static.wikia.nocookie.net/blue-archive/images/e/ed/Iroha_Portrait.png",
+    sprite: "",
+    halo:
+      "https://static.wikia.nocookie.net/blue-archive/images/2/2f/Iroha_Halo.png",
+    introduction: [
+      "A member of Pandemonium Society who often views everything as a pain. Not surprising, considering her boss is always stirring up trouble and the chaotic nature of Gehenna itself. As she carries out her duties day by day, she lets out a sigh or two and performs her tasks with indifference.",
+    ],
+    personality: [""],
+    appearance: [
+      "Iroha has long, wavy purplish-red hair. Her eyes are a dull indigo color.",
+    ],
+    uniform: [""],
+    haloInfo: [
+      "Iroha's halo is an indigo-blue/sky-blue circle with four evenly spaced spikes and a rhombus at the top that extends through the circle.",
+    ],
+    firearm:
+      "https://static.wikia.nocookie.net/blue-archive/images/5/5e/Iroha_UE.png",
+    firearmInfo:
+      "The pistol carried by Iroha. As the tank commander of Pandemonium, she has few opportunities to use it, and she always says that it is troublesome to carry around even in this size. But even so, the fact that it is neatly maintained every day shows Iroha's character.",
+    firearmName: "Pandemonium Society's Service Pistol",
+    l2d:
+      "https://static.wikia.nocookie.net/blue-archive/images/6/60/Iroha_EX.gif",
+    l2dIcon:
+      "https://static.wikia.nocookie.net/blue-archive/images/1/15/Iroha_Icon_2.png",
+    trivia: [""],
+    voice:
+      "https://static.wikia.nocookie.net/blue-archive/images/2/23/Iroha_LogIn_2.ogg",
+  },
+
+  izumi: {
+    fName: "Izumi",
+    lName: "Shishidou",
+    jpName: "獅子堂イズミ",
+    quote: "Talents? Of Course, It's Eating... Maybe!	",
+    icon:
+      "https://static-new.miraheze.org/bluearchivewiki/1/10/Izumi.png?version=4abcfdccd0b583e7bbb3ac1d2357f265",
+    icon1:
+      "https://static.wikia.nocookie.net/blue-archive/images/0/03/Izumi_Icon.png",
+    portrait:
+      "https://static.wikia.nocookie.net/blue-archive/images/b/bd/Izumi_Portrait.png",
+    sprite:
+      "https://static.wikia.nocookie.net/blue-archive/images/b/b5/Izumi_Sprite.png",
+    halo:
+      "https://static.wikia.nocookie.net/blue-archive/images/4/49/Izumi_Halo.png",
+    introduction: [
+      "A gluttonous 2nd year student who belongs to Gehenna's Gourmet Research Society.",
+      "She is a foodie who eats anything and everything. As a result of her overwhelming love of any and all food, she has started to develop a taste for bizarre food combinations which other people wouldn't think about let alone dare to stomach.",
+    ],
+    personality: [
+      "Izumi is mostly known for her love of food. As a result, she'll eat anything. Even types of food no normal person would even dare to eat, such as cat food.",
+    ],
+    appearance: [""],
+    uniform: [
+      "She has fluffy beige hair with a cowlick, a red hairclip and pigtails tied in red scrunchies. She has ram horns and amber eyes.",
+      "She wears a standard uniform, consisting of a black and gray coat with red linings and gold Gehenna logos, red pleated skirt with white stripes, a black belt holding pouches, white socks and black boots with red shoelaces.",
+    ],
+    haloInfo: [
+      "Izumi's halo has a yellow figure of a hamburger inside of a larger brackets and another in the shape of a bite.",
+    ],
+    firearm:
+      "https://static.wikia.nocookie.net/blue-archive/images/0/0e/Izumi_UE.png",
+    firearmInfo:
+      "A heavy machine gun used by Izumi. According to her, if you use this gun to kill anyone who interrupts your mealtime, your meal will taste better in proportion to the number of opponents.",
+    firearmName: "Daily Cutlery",
+    l2d:
+      "https://static.wikia.nocookie.net/blue-archive/images/f/f5/Izumi_Live2D.gif",
+    l2dIcon:
+      "https://static.wikia.nocookie.net/blue-archive/images/f/fb/Izumi_Icon_2.png",
+    trivia: [""],
+    voice:
+      "https://static.wikia.nocookie.net/blue-archive/images/f/f5/Izumi_LogIn_1.ogg",
+  },
+
+  izuna: {
+    fName: "Izuna",
+    lName: "Kuda",
+    jpName: "久田イズナ",
+    quote: '	I\'ll present you "Izuna-Style Ninjutsu!"',
+    icon:
+      "https://static-new.miraheze.org/bluearchivewiki/thumb/5/54/Izuna.png/266px-Izuna.png",
+    icon1:
+      "https://static.wikia.nocookie.net/blue-archive/images/9/9b/Izuna_Icon.png",
+    portrait:
+      "https://static.wikia.nocookie.net/blue-archive/images/1/14/Izuna_Portrait.png",
+    sprite:
+      "https://static.wikia.nocookie.net/blue-archive/images/9/9f/Izuna_Sprite.png",
+    halo:
+      "https://static.wikia.nocookie.net/blue-archive/images/2/28/Izuna_Halo.png",
+    introduction: [
+      'A 1st year student and member of the Ninjutsu Research Club of the Allied Hyakkiyako Academy, Izuna is a bright and bubbly girl who dreams of one day becoming "the best ninja of Kivotos". But to others, her goal seems like a pipe dream, resulting in her becoming a lone fox.',
+      'In order to become a proper ninja, she continues to refer to Sensei as "lord" while "escorting" (simply chasing Sensei around Kivotos) and devoting herself to various other activities.',
+    ],
+    personality: [
+      "Izuna is a very cheerful and overzealous girl who dreams of becoming a ninja. She's almost always seen smiling regardless of the situation.",
+      'When she met Sensei, she refers him as "My Lord" in the way that a ninja would.',
+    ],
+    appearance: [""],
+    uniform: [
+      "She has a short dark brown hair tied in fur tuff with magenta knots and a kitsune hair clip. She has fox ears, a large fox tail, and amber eyes with pink eyeshadow.",
+      "She wears a standard uniform, including a marigold traditional Japanese kimono with flowery patterns and a magenta scarf with a Hyakkiyako logo on one end, a white sleeveless sailor dress with blue collar, blue pleated skirt, and a large magenta ribbon underneath tied together in yellow sash.",
+      "Her hands are covered with black three-fingered gloves topped with a webbed elbow wrap seen on her left arm, her left leg wrapped in webbed stocking, while her right leg has a kunai belt around the thigh. She wears a lone black sock on her right foot and a pair of brown uwabaki.",
+    ],
+    haloInfo: [
+      "Izuna's halo is pink colored with a hollowed five-petal cherry blossom pattern inside it.",
+    ],
+    firearm:
+      "https://static.wikia.nocookie.net/blue-archive/images/1/15/Izuna_UE.png",
+    firearmInfo:
+      "Izuna's favorite submachine gun. It is a cutting-edge ninja tool, and when used in conjunction with Izuna's ninja arts, it can be used to shoot thrown smoke bombs, massage the Lord's shoulder, and so on.",
+    firearmName: "Izuna-Style Super Ninja Tool",
+    l2d:
+      "https://static.wikia.nocookie.net/blue-archive/images/f/f0/Izuna_Live2D.gif",
+    l2dIcon:
+      "https://static.wikia.nocookie.net/blue-archive/images/d/da/Izuna_Icon_2.png",
+    trivia: [""],
+    voice:
+      "https://static.wikia.nocookie.net/blue-archive/images/6/6e/Izuna_LogIn_1.ogg",
+  },
+
+  junko: {
+    fName: "Junko",
+    lName: "Akashi",
+    jpName: "赤司ジュンコ",
+    quote: "Sensei! You're really treating me dinner, aren't you?",
+    icon:
+      "https://static-new.miraheze.org/bluearchivewiki/thumb/3/3c/Junko.png/266px-Junko.png",
+    icon1:
+      "https://static.wikia.nocookie.net/blue-archive/images/9/97/Junko_Icon.png",
+    portrait:
+      "https://static.wikia.nocookie.net/blue-archive/images/b/ba/Junko_Portrait.png",
+    sprite:
+      "https://static.wikia.nocookie.net/blue-archive/images/1/10/Junko_Sprite.png",
+    halo:
+      "https://static.wikia.nocookie.net/blue-archive/images/3/3d/Junko_Halo.png",
+    introduction: [
+      "She is a 1st year student and a prim yet ravenous eater in Gehenna's Gourmet Research Society.",
+      "Differing from the other members who often overeat everyday food, Junko is one to take part in a certain extent of enjoying reasonable quality gastronomy, but is sometimes known to lose her sense of reason when delicious foods are placed in front of her. Her favorite food is dango.",
+    ],
+    personality: [""],
+    appearance: [""],
+    uniform: [
+      "She has red bob-cut hair with long twintails below shoulder-length tied to a black thin ribbons. She has ram horns, pointy ears, red devil wings on her back and scarlet demon eyes.",
+      "She wears a standard uniform, including a dark red blazer, a red flowing plaid skirt underneath with red tie with golden chain, gold buttons, black belt with red pouches and insignia on her left sleeve which also wears a leg bracelet on her left leg and long black boots with red shoelaces.",
+    ],
+    haloInfo: [
+      "Junko's halo has a red dot surrounded by pointy brackets and a sharp diamond in front.",
+    ],
+    firearm:
+      "https://static.wikia.nocookie.net/blue-archive/images/a/a2/Junko_UE.png",
+    firearmInfo:
+      "Two machine guns used by Junko. It has a powerful rapid-fire capability and in Junko's case, it is proportional to her hunger. So the hungrier she is, the faster she can control it.",
+    firearmName: "Diner's Outlaw",
+    l2d:
+      "https://static.wikia.nocookie.net/blue-archive/images/c/c0/Junko_Live2D.gif",
+    l2dIcon:
+      "https://static.wikia.nocookie.net/blue-archive/images/5/5a/Junko_Icon_2.png",
+    trivia: [""],
+    voice:
+      "https://static.wikia.nocookie.net/blue-archive/images/d/d8/Junko_LogIn_1.ogg",
+  },
+
+  juri: {
+    fName: "Juri",
+    lName: "Ushimaki",
+    jpName: "牛牧ジュリ",
+    quote: "Will this help me to make more delicious meal?	",
+    icon:
+      "https://static-new.miraheze.org/bluearchivewiki/3/37/Juri.png?version=4f407aa45d0e8b7b105609e739cd7221",
+    icon1:
+      "https://static.wikia.nocookie.net/blue-archive/images/1/15/Juri_Icon.png",
+    portrait:
+      "https://static.wikia.nocookie.net/blue-archive/images/b/b3/Juri_Portrait.png",
+    sprite:
+      "https://static.wikia.nocookie.net/blue-archive/images/f/fd/Juri_Sprite.png",
+    halo:
+      "https://static.wikia.nocookie.net/blue-archive/images/8/8b/Juri_Halo.png",
+    introduction: [
+      "A 1st year student and one of the members of the School Lunch Club that manages the cafeteria at Gehenna Academy. Working alongside Fuuka to prepare meals for her fellow students, she works hard every morning to make a huge number of meals for everyone in the school.",
+      "Unfortunately, her cooking skills are... beyond bad, it's hard to say her food provisions are of particular use. However, with Fuuka's encouragement and guidance, she strives hard to improve her cooking skills everyday.",
+    ],
+    personality: [
+      "She is extremely determined to improve her cooking. Unfortunately, her food and drinks somehow will turn out bad even if she follows the instructions fully.",
+    ],
+    appearance: [""],
+    uniform: [
+      "She has a long straight pink hair tied reaching her legs, wrapped in white bandana for cooking safety. She has buffalo horns, elven ears and emerald eyes.",
+      "She wears a standard uniform, a violet uniform with white pleated skirt, red tie and shoulder guard, and white apron. She also wears stockings underneath her black uwabaki.",
+    ],
+    haloInfo: ["Juri's halo is a series of blue stars creating a bigger star."],
+    firearm:
+      "https://static.wikia.nocookie.net/blue-archive/images/0/09/Juri_UE.png",
+    firearmInfo:
+      "A shotgun that Juri carries. It was given to her to control the troublemakers in the cafeteria, but for some reason she often uses it as a cooking tool.",
+    firearmName: "School Lunch Club Self-Defense Weapon Type B",
+    l2d: "",
+    l2dIcon: "",
+    trivia: [""],
+    voice:
+      "https://static.wikia.nocookie.net/blue-archive/images/e/ed/Juri_LogIn_1.ogg",
+  },
+
+  kaede: {
+    fName: "Kaede",
+    lName: "Isami",
+    jpName: "勇美カエデ",
+    quote: "Dashing in a pinch! Here I come!	",
+    icon:
+      "https://static-new.miraheze.org/bluearchivewiki/f/f0/Kaede.png?version=a4e164ac90ba213801154d3a3d05c1ed",
+    icon1:
+      "https://static.wikia.nocookie.net/blue-archive/images/c/c1/Kaede_Icon.png",
+    portrait:
+      "https://static.wikia.nocookie.net/blue-archive/images/9/93/Kaede_Portrait.png",
+    sprite:
+      "https://static.wikia.nocookie.net/blue-archive/images/8/84/Kaede_Sprite.png",
+    halo:
+      "https://static.wikia.nocookie.net/blue-archive/images/c/c8/Kaede_Halo.png",
+    introduction: [
+      "Kaede is the energetic spirit of Etiquette Training Society. Originally a country girl, she met the two members of the Etiquette Training Society by chance, and admiring their appearance, she decided to join the club. She is studying hard every day, but somehow most of her training seems to lead to trouble...",
+    ],
+    personality: [""],
+    appearance: [""],
+    uniform: [""],
+    haloInfo: [""],
+    firearm:
+      "https://static.wikia.nocookie.net/blue-archive/images/b/b9/Kaede_UE.png",
+    firearmInfo:
+      "A pistol that Kaede always carries with her. In its actual form, it is a signal pistol, used by students who are in some kind of trouble, or when they discover a rare Insect Queen card.",
+    firearmName: "Funny・Fireworks",
+    l2d:
+      "https://static.wikia.nocookie.net/blue-archive/images/d/da/Kaede_Live2D.gif",
+    l2dIcon:
+      "https://static.wikia.nocookie.net/blue-archive/images/a/a2/Kaede_Icon_2.png",
+    trivia: [""],
+    voice: "",
+  },
+
+  karin: {
+    fName: "Karin",
+    lName: "Kakudate",
+    jpName: "角楯カリン",
+    quote: "I'll blow it up in one shot.	",
+    icon:
+      "https://static-new.miraheze.org/bluearchivewiki/5/50/Karin.png?version=4844eda29507e5b9fb2f21d84d5bebf9",
+    icon1:
+      "https://static.wikia.nocookie.net/blue-archive/images/7/75/Karin_Icon.png",
+    portrait:
+      "https://static.wikia.nocookie.net/blue-archive/images/d/df/Karin_Portrait.png",
+    sprite:
+      "https://static.wikia.nocookie.net/blue-archive/images/3/3c/Karin_Sprite.png",
+    halo:
+      "https://static.wikia.nocookie.net/blue-archive/images/a/ae/Karin_Halo.png",
+    introduction: [
+      'She is an agent of the Millennium\'s secret organization, C&C. Her codename is "zero-two," and she is responsible for providing strong fire support from the backlines.',
+      "Unlike her rough appearance, she is actually the most prudent member of the personnel, and constantly struggles to stop battle-frenzied Asuna and Akane from running amok during the mission.",
+    ],
+    personality: [""],
+    appearance: [""],
+    uniform: [
+      "She has long black hair reaching to her legs and wears a French maid headdress. She has dark skin and sharp yellow eyes.",
+      'She wears a typical French maid uniform with blue ribbons and lines on the skirt and Millennium\'s logo on her sleeves, and long white stockings with "02" on her left hip and black maid high heels.',
+    ],
+    haloInfo: [
+      "Karin's halo has metallic purple crosshairs inside a larger circle with two dashed edges on its side.",
+    ],
+    firearm:
+      "https://static.wikia.nocookie.net/blue-archive/images/6/64/Karin_UE.png",
+    firearmInfo:
+      "This is Karin's exclusive anti-material sniper rifle. Even if a target is flying in the sky, she will shoot it down with unmatched accuracy.",
+    firearmName: "Hawkeye",
+    l2d:
+      "https://static.wikia.nocookie.net/blue-archive/images/8/86/Karin_Live2D.gif",
+    l2dIcon:
+      "https://static.wikia.nocookie.net/blue-archive/images/5/58/Karin_Icon_2.png",
+    trivia: [""],
+    voice:
+      "https://static.wikia.nocookie.net/blue-archive/images/8/89/Karin_LogIn_1.ogg",
+  },
+
+  kayoko: {
+    fName: "Kayoko",
+    lName: "Onikata",
+    jpName: "鬼方カヨコ",
+    quote: "The Handymen would probably welcome you, Sensei.",
+    icon:
+      "https://static-new.miraheze.org/bluearchivewiki/a/a5/Kayoko.png?version=d49152405c4c70acf380bf23d6e3c4e5",
+    icon1:
+      "https://static.wikia.nocookie.net/blue-archive/images/a/ad/Kayoko_Icon.png",
+    portrait:
+      "https://static.wikia.nocookie.net/blue-archive/images/1/10/Kayoko_Portrait.png",
+    sprite:
+      "https://static.wikia.nocookie.net/blue-archive/images/5/5e/Kayoko_Sprite.png",
+    halo:
+      "https://static.wikia.nocookie.net/blue-archive/images/7/7b/Kayoko_Halo.png",
+    introduction: [
+      'The "Section chief" of Problem Solver 68 and a 3rd year student at Gehenna Academy.',
+      "Unlike the other fixers, Kayoko is not one with ill intentions. However, she is often misunderstood as a delinquent simply due to natural scary facial expressions and appearance. She normally prefers to keep silent about this topic, as it likely leads to furthering her terrifying image.",
+    ],
+    personality: [
+      "From a first glance, Kayoko holds a scary demeanor and is often misunderstood as a troublemaker. In reality, she is a gentle and relaxed individual who goes along with whatever Problem Solver 68 pulls her into. Out of everyone in the club, she is shown to be the most reasonable, calm, and least destructive person as she does not actively seek to cause trouble.",
+    ],
+    appearance: [""],
+    uniform: [
+      "She has white hair with black bangs and a black ponytail tied to her horns. She has red eyes, pale skin and a mole in her lower neck.",
+      'She wears a black hoodie with the service logo written "Born.To.Kill" on it with red lines on the sleeves, a standard uniform underneath with brown t-shirt, pleated, plaid red skirt and black sneakers with red lines.',
+      "he carries a black bag with white crude seams hanging on her right shoulder which also has a gun holster attached to the strap.",
+    ],
+    haloInfo: [
+      "Kayoko's halo has a white pentagon with three sharp points and another upside-down pentagon inside.",
+    ],
+    firearm:
+      "https://static.wikia.nocookie.net/blue-archive/images/9/9b/Kayoko_UE.png",
+    firearmInfo:
+      "A handgun that Kayoko usually carries around. As its name implies, it emits a loud roar every time it is fired, so Kayoko has a silencer attached to it.",
+    firearmName: "Demon's Roar",
+    l2d:
+      "https://static.wikia.nocookie.net/blue-archive/images/a/a9/Kayoko_Live2D.gif",
+    l2dIcon:
+      "https://static.wikia.nocookie.net/blue-archive/images/4/44/Kayoko_Icon_2.png",
+    trivia: [
+      "She is the first student who is 18 years old followed by Wakamo.",
+    ],
+    voice:
+      "https://static.wikia.nocookie.net/blue-archive/images/e/e7/Kayoko_LogIn_2.ogg",
+  },
 };
 
 export default StudentInfo;
