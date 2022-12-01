@@ -1678,6 +1678,737 @@ const StudentInfo = {
     voice:
       "https://static.wikia.nocookie.net/blue-archive/images/e/e7/Kayoko_LogIn_2.ogg",
   },
+
+  kazusa: {
+    fName: "Kazusa",
+    lName: "Kyouyama",
+    jpName: "杏山 かずさ",
+    quote: "This isn't so bad. At least once in a while, anyway.",
+    icon:
+      "https://static-new.miraheze.org/bluearchivewiki/thumb/b/b3/Kazusa.png/266px-Kazusa.png",
+    icon1:
+      "https://static.wikia.nocookie.net/blue-archive/images/c/cb/Kazusa_Icon.png",
+    portrait:
+      "https://static.wikia.nocookie.net/blue-archive/images/f/f9/Kazusa_Portrait.png",
+    sprite: "",
+    halo:
+      "https://static.wikia.nocookie.net/blue-archive/images/4/42/Kazusa_Halo.png",
+    introduction: [
+      "A quiet and easy-going member of the After-School Sweets Club. Kazusa is always getting dragged into whatever strange antics the other club members are up to, but deep down in her kind heart she cherishes those moments.",
+    ],
+    personality: [
+      "Kazusa is shown to be an easygoing individual. She cares deeply for her friends and is very aware of how she portrays herself while being out in public.",
+      "It is later revealed in A Tale of After-School Sweets that she was a former gang member who was highly revered through the name of Cath Palug. After coincidentally seeing a girl living her life as a normal school girl, Kazusa chose to abandon her ways of a delinquent. She wishes to not bring up her past as she found it cringy and believed it to be foolish part of her childhood. If brought up, she is easily embarrassed and irritated (especially at Reisa and Natsu).",
+    ],
+    appearance: [
+      "Kazusa has midnight-blue hair with magenta hair on the inner side. She has what appears to be cat ears that follow the same coloring as her hair. Her eyes are a gradient of—starting from the bottom—yellow, red, and purple.",
+    ],
+    uniform: [""],
+    haloInfo: [
+      "Her halo is a purple snake eye, surrounded by a ring with a thin spike, followed by another ring.",
+    ],
+    firearm:
+      "https://static.wikia.nocookie.net/blue-archive/images/f/f2/Kazusa_UE.png",
+    firearmInfo:
+      "A Machine Gun that has been with Kazusa since ancient times. When asked him about the origin of its name, she looks bitter.",
+    firearmName: "Mabinogion",
+    l2d:
+      "https://static.wikia.nocookie.net/blue-archive/images/2/20/Kazusa_Live2D.gif",
+    l2dIcon:
+      "https://static.wikia.nocookie.net/blue-archive/images/3/38/Kazusa_Icon_2.png",
+    trivia: ['Her nickname when she was a gangster was "Cath Palug"'],
+    voice:
+      "Her unique equipment, Mabinogion, is named after a collection of British prose stories of the same name.",
+  },
+
+  kirino: {
+    fName: "Kirino",
+    lName: "Nakatsukasa",
+    jpName: "中務キリノ",
+    quote: "I will devote myself to the safety of Kivotos!",
+    icon:
+      "https://static-new.miraheze.org/bluearchivewiki/8/85/Kirino.png?version=799901136536593384de3a6d927fe57c",
+    icon1:
+      "https://static.wikia.nocookie.net/blue-archive/images/f/fa/Kirino_Icon.png",
+    portrait:
+      "https://static.wikia.nocookie.net/blue-archive/images/f/f3/Kirino_Portrait.png",
+    sprite:
+      "https://static.wikia.nocookie.net/blue-archive/images/0/09/Kirino_Sprite.png",
+    halo:
+      "https://static.wikia.nocookie.net/blue-archive/images/7/7b/Kirino_Halo.png",
+    introduction: [
+      "This is Kirino, a hot-blooded student from the Valkyrie Police Academy! She was assigned to the Life Safety Bureau because of her fatal shooting skills, but she never gave up and continues to strive to become a police officer who can brilliantly subdue criminals!",
+    ],
+    personality: [
+      "Contrasting her partner Fubuki, Kirino is incredibly hardworking and hotblooded. She has dreams of becoming an honorable police officer who protects and serves the people, but her own character flaws prevent this. She is too passionate in her work, willing to occasionally defy orders to try and do what is right... and proving exactly why she should have followed said orders due to her ridiculously bad accuracy and willingness to use extreme measures.",
+      "In short, Kirino has the will, but not the skill.",
+    ],
+    appearance: [""],
+    uniform: [
+      "Kirino has the traditional outfit of a Japanese female police officer, along with the overcoat and boots, but wears them properly instead of casually like Fubuki. Instead of hot pink, Kirino wears cool purple accessories.",
+    ],
+    haloInfo: [""],
+    firearm:
+      "https://static.wikia.nocookie.net/blue-archive/images/d/db/Kirino_UE.png",
+    firearmInfo:
+      "A regulation pistol issued to Kirino by the Valkyrie Police Academy. Kirino blame this gun for her shooting skills to be off, but there's nothing wrong with the gun.",
+    firearmName: "EValkyrie Standard Issue No. 3 Pistol",
+    l2d:
+      "https://static.wikia.nocookie.net/blue-archive/images/2/22/Kirino_Live2D.gif",
+    l2dIcon:
+      "https://static.wikia.nocookie.net/blue-archive/images/7/7e/Kirino_Icon_2.png",
+    trivia: [
+      'In CBT, her last name was "Iori (伊折)" before it was changed to "Nakatsukasa (中務)".',
+      "Her sprite received a rework before her official release.",
+      "When finally convinced to fire at the hostage target in a firing range, she successfully shot the enemy target.",
+    ],
+    voice: "",
+  },
+
+  koharu: {
+    fName: "Koharu",
+    lName: "Shimoe",
+    jpName: "下江コハル",
+    quote: "Why do I have it...Ugh, shut up!	",
+    icon:
+      "https://static-new.miraheze.org/bluearchivewiki/c/c3/Koharu.png?version=fa543d09d94b998647a5273a0d05c1bb",
+    icon1:
+      "https://static.wikia.nocookie.net/blue-archive/images/7/7a/Koharu_Icon.png",
+    portrait:
+      "https://static.wikia.nocookie.net/blue-archive/images/3/3a/Koharu_Portrait.png",
+    sprite:
+      "https://static.wikia.nocookie.net/blue-archive/images/d/d4/Koharu_Sprite.png",
+    halo:
+      "https://static.wikia.nocookie.net/blue-archive/images/4/46/Koharu_Halo.png",
+    introduction: [
+      "Member of the Supplementary Lesson Department of Trinity General Academy.",
+      "Originally, she belonged to the Justice Realization Committee, but her grades fell and she fell into a crisis of repeating a year and was forced to transfer to the remedial class department. She thinks she is an elite, but in reality, she is too stupid to keep up with her schoolwork. She has a hobby of collecting lewd magazines, and is often embarrassed to be alone with her fantasies about even the most trivial things.",
+    ],
+    personality: [
+      "Koharu is a naive and delusional young girl with a good heart, while her skills allowed her to become a part of the Justice Realization Committee. However, because her stupidity and delusional behavior she is often set back.",
+      "Because of her delusions, she would believe that Sensei has sexual fantasies towards her that she denies having. However, beneath it all she is a dependable person who provides lighthearted banter and a springboard to bounce off of for the Supplementary Lesson Department.",
+    ],
+    appearance: [""],
+    uniform: [
+      "Koharu wears a black Trinity school uniform with pink features that is sliding off her left shoulder which exposes her white bra strap, and a short maroon pleated skirt.",
+    ],
+    haloInfo: [
+      "Koharu's halo consists of a pink outer ring with features similar to her wings and a simple inner ring.",
+    ],
+    firearm:
+      "https://static.wikia.nocookie.net/blue-archive/images/2/21/Koharu_UE.png",
+    firearmInfo:
+      "A sniper rifle used by Koharu. This name was given to Koharu when she was still a member of the Justice Realization Committee.",
+    firearmName: "Justice Black",
+    l2d:
+      "https://static.wikia.nocookie.net/blue-archive/images/0/0e/Koharu_Live2D.gif",
+    l2dIcon:
+      "https://static.wikia.nocookie.net/blue-archive/images/a/a5/Koharu_Icon_2.png/revision",
+    trivia: [
+      'In CBT, her attack type was originally "Penetration" before changing into "Explosive".',
+      'Her EX-Skill refers to the "Holy Hand Grenade" that was depicted in the movie Monty Python and the Holy Grail.',
+    ],
+    voice:
+      "https://static.wikia.nocookie.net/blue-archive/images/b/bc/Koharu_LogIn_1.ogg",
+  },
+
+  kokona: {
+    fName: "Kokona",
+    lName: "Sunohara",
+    jpName: "春原ココナ",
+    quote: "Please don't call me Kokona-chan. I'm not a little kid.",
+    icon:
+      "https://static-new.miraheze.org/bluearchivewiki/8/83/Kokona.png?version=9fe3a4b1e3cb8c190d0b1e4f58dd4fc8",
+    icon1:
+      "https://static.wikia.nocookie.net/blue-archive/images/4/4a/Kokona_Icon.png",
+    portrait:
+      "https://static.wikia.nocookie.net/blue-archive/images/3/3b/Kokona_Portrait.png",
+    sprite: "",
+    halo:
+      "https://static.wikia.nocookie.net/blue-archive/images/8/84/Kokona_Halo.png",
+    introduction: [
+      'The younger sister of Sunohara Shun and, like her, she is also an instructor at Plum Blossom Garden in Training Support Department. She doesn\'t like to be treated like a child, and gets in a bad mood if she is refer to "Kokona-chan" instead of "Instructor Kokona." She is not fond of carrots and secretly avoids them when she eats.',
+    ],
+    personality: [""],
+    appearance: [""],
+    uniform: [""],
+    haloInfo: [""],
+    firearm:
+      "https://static.wikia.nocookie.net/blue-archive/images/5/5d/Kokona_UE.png",
+    firearmInfo:
+      "An effective assault rifle, both in defending the dignity of a lady and fulfilling her duties as an instructor.",
+    firearmName: "Lady's Grace",
+    l2d:
+      "https://static.wikia.nocookie.net/blue-archive/images/4/48/Kokona_EX.gif",
+    l2dIcon:
+      "https://static.wikia.nocookie.net/blue-archive/images/b/b7/Kokona_Icon_2.png",
+    trivia: [""],
+    voice: "",
+  },
+
+  kotama: {
+    fName: "Kotama",
+    lName: "Otose",
+    jpName: "音瀬コタマ",
+    quote: "I've figured out everything you're aiming for.",
+    icon:
+      "https://static-new.miraheze.org/bluearchivewiki/9/94/Kotama.png?version=83917da8d5cb33e95d1d8e1269b23671",
+    icon1:
+      "https://static.wikia.nocookie.net/blue-archive/images/4/41/Kotama_Icon.png",
+    portrait:
+      "https://static.wikia.nocookie.net/blue-archive/images/5/5f/Kotama_Portrait.png",
+    sprite: "",
+    halo:
+      "https://static.wikia.nocookie.net/blue-archive/images/e/e1/Kotama_Halo.png",
+    introduction: [
+      'A Comm. leader for a group of hackers "Veritas" at Millennium Science School.',
+      "She is a skilled eavesdropper and likes to snoop on anyone's secret conversations. She is socially awkward, and basically tends to use honorifics even with younger first graders. In reality, she is shy and asocial, but speaks surprisingly well on the Internet.",
+    ],
+    personality: [""],
+    appearance: [""],
+    uniform: [
+      "She has long pale blonde hair reaching to her waist with cowlick, a braid on her right side and her bangs clipped with a hair tie. She has purple eyes with pink pupils.",
+      "She wears a black and orange hoodie with white accessory a Millennium access badge clipped to the chest area, a white dress and cyan tie underneath with black belt holster carrying her firearm and black boots with orange soles.",
+      "Her hands are covered with black gloves with orange on the palm area. She has a choker and black headphones with blue rim hanging on her neck.",
+    ],
+    haloInfo: [
+      "Kotama's halo has a pale purple dashed circle with crosshair inside it. It also has a cross which resembles clock needles on the rim in each dash.",
+    ],
+    firearm:
+      "https://static.wikia.nocookie.net/blue-archive/images/8/86/Kotama_UE.png",
+    firearmInfo:
+      "The pistol that Kotama always carries. It is a model with a minimized firing sound so as not to interfere with interception.",
+    firearmName: "Echolink",
+    l2d: "",
+    l2dIcon: "",
+    trivia: [""],
+    voice:
+      "https://static.wikia.nocookie.net/blue-archive/images/1/1f/Kotama_LogIn_1.ogg",
+  },
+
+  kotori: {
+    fName: "Kotori",
+    lName: "Toyomi",
+    jpName: "/ 豊見コトリ",
+    quote: "It is scheduled to be a big success! Please look forward to it!",
+    icon:
+      "https://static-new.miraheze.org/bluearchivewiki/a/ab/Kotori.png?version=804ac45d4e4399698ea74520b6a53215",
+    icon1:
+      "https://static.wikia.nocookie.net/blue-archive/images/9/93/Kotori_Icon.png",
+    portrait:
+      "https://static.wikia.nocookie.net/blue-archive/images/4/47/Kotori_Portrait.png",
+    sprite:
+      "https://static.wikia.nocookie.net/blue-archive/images/a/a3/Kotori_Sprite.png",
+    halo:
+      "https://static.wikia.nocookie.net/blue-archive/images/d/dc/Kotori_Halo.png",
+    introduction: [
+      "A member of the Engineering Dept. enrolled at Millennium School.",
+      "A talkative girl who can't stop talking about physics and mechanisms of machinery. Whenever there is a mechanical problem at Millennium, she is the first to arrive on the scene to explain the situation.",
+    ],
+    personality: [""],
+    appearance: [""],
+    uniform: [
+      "She has bright orange, messy bob cut hair with bangs and a braid styled on her left. She has bright red eyes and black glasses.",
+      "She wears a standard uniform, navy blue furry winter coat, her white shirt, blue tie underneath are loose and unbuttoned pleated, black skirt tied to straps to hold them and a white socks and black sneakers with blue shoelaces.",
+    ],
+    haloInfo: [
+      "Kotori's halo has orange triangle with curved arrows on each edge outside and petals on the inside.",
+    ],
+    firearm:
+      "https://static.wikia.nocookie.net/blue-archive/images/5/5d/Kotori_UE.png",
+    firearmInfo:
+      'A machine gun that Kotori is carrying, also known as "EX-Plain". When asked about those names, she begins by explaining the history of firearms development.',
+    firearmName: "Professor K",
+    l2d:
+      "https://static.wikia.nocookie.net/blue-archive/images/3/3c/Kotori_Live2D.gif",
+    l2dIcon:
+      "https://static.wikia.nocookie.net/blue-archive/images/9/9b/Kotori_Icon_2.png",
+    trivia: [""],
+    voice:
+      "https://static.wikia.nocookie.net/blue-archive/images/1/16/Kotori_LogIn_1.ogg",
+  },
+
+  maki: {
+    fName: "Maki",
+    lName: "Konuri",
+    jpName: "小塗マキ",
+    quote: "If I win, I'll paint the best graffiti on that shield!	",
+    icon:
+      "https://static-new.miraheze.org/bluearchivewiki/thumb/2/21/Maki.png/266px-Maki.png",
+    icon1:
+      "https://static.wikia.nocookie.net/blue-archive/images/e/e9/Maki_Icon.png",
+    portrait:
+      "https://static.wikia.nocookie.net/blue-archive/images/6/63/Maki_Portrait.png",
+    sprite:
+      "https://static.wikia.nocookie.net/blue-archive/images/8/88/Maki_Sprite.png",
+    halo:
+      "https://static.wikia.nocookie.net/blue-archive/images/b/bc/Maki_Halo.png",
+    introduction: [
+      'An artistic member of the hacker group "Veritas" at Millennium Science School.',
+      "A mischievous girl who likes graffiti, and the creator of Veritas' emblem. She is basically an optimistic, go-with-the-motions type of person, and often gets into trouble with other club members.",
+    ],
+    personality: [""],
+    appearance: [""],
+    uniform: [
+      "She has red, messy hair below shoulder-length with a cowlick and tied to buns on both side. She has bright blue eyes.",
+      "She wears a navy blue hoodie with assortment accessory, a pink Veritas logo and a Millennium access badge on her left arm. Her standard uniform, including a black sweater, an untucked white shirt and blue tie underneath and a white skirt with black line on the rim.",
+      "She has a black socks and black and white sneakers with red decoration. Note that some areas around her clothes has paint splotches all over her.",
+    ],
+    haloInfo: [
+      "Maki's halo has a red circle overline with the three smaller ones inside out and a gray inverted pyramid in the middle.",
+    ],
+    firearm:
+      "https://static.wikia.nocookie.net/blue-archive/images/7/72/Maki_UE.png",
+    firearmInfo:
+      "This machine gun is often used by Maki even when she is painting graffiti. It has been modified using Millennium's technology, and can load and fire paint bullets as well as live ammunition.",
+    firearmName: "Auto Lacquer",
+    l2d:
+      "https://static.wikia.nocookie.net/blue-archive/images/7/71/Maki_Live2D.gif",
+    l2dIcon:
+      "https://static.wikia.nocookie.net/blue-archive/images/0/03/Maki_Icon_2.png/revision",
+    trivia: [
+      "She bears the same appearance with Akari Akaza.Both even share's the same hair color and hair buns too.",
+    ],
+    voice:
+      "https://static.wikia.nocookie.net/blue-archive/images/6/6a/Maki_LogIn_1.ogg",
+  },
+
+  mari: {
+    fName: "Mari",
+    lName: "Iochi",
+    jpName: "伊落マリー",
+    quote: "If you are having a hard time, you can turn to me for help.",
+    icon:
+      "https://static-new.miraheze.org/bluearchivewiki/4/4f/Mari.png?version=279e736f9d7f641fa4882594b005b486",
+    icon1:
+      "https://static.wikia.nocookie.net/blue-archive/images/e/e0/Mari_Icon.png",
+    portrait:
+      "https://static.wikia.nocookie.net/blue-archive/images/d/de/Mari_Portrait.png",
+    sprite:
+      "https://static.wikia.nocookie.net/blue-archive/images/5/5b/Mari_Sprite.png",
+    halo:
+      "https://static.wikia.nocookie.net/blue-archive/images/1/13/Mari_Halo.png",
+    introduction: [
+      "Sincere girl of the Sisterhood who manages the cathedral of Trinity General School. She has a cute impression, but is much calmer than her age and has a lot of character. She has a dream to become the best Sister of Trinity in the future.",
+    ],
+    personality: [""],
+    appearance: [""],
+    uniform: [""],
+    haloInfo: [""],
+    firearm:
+      "https://static.wikia.nocookie.net/blue-archive/images/a/a7/Mari_UE.png",
+    firearmInfo:
+      "A pistol that Marie used. Although she carries it with her on a regular basis, few people have actually seen her shoot it.",
+    firearmName: "Piety",
+    l2d:
+      "https://static.wikia.nocookie.net/blue-archive/images/2/2d/Mari_Live2D.gif",
+    l2dIcon:
+      "https://static.wikia.nocookie.net/blue-archive/images/1/1b/Mari_Icon_2.png",
+    trivia: [
+      "Her original design was made by Vinoker but the current sprite is drawn by DoReMi.",
+    ],
+    voice: "",
+  },
+
+  marina: {
+    fName: "Marina",
+    lName: "Ikekura",
+    jpName: "池倉マリナ",
+    quote: "Ladies!, I will take the lead.	",
+    icon:
+      "https://static-new.miraheze.org/bluearchivewiki/9/9d/Marina.png?version=c44b2f63fbbee888e760c7ce6d7ca2f6",
+    icon1:
+      "https://static.wikia.nocookie.net/blue-archive/images/b/b0/Marina_Icon.png",
+    portrait:
+      "https://static.wikia.nocookie.net/blue-archive/images/a/ad/Marina_Portrait.png",
+    sprite: "",
+    halo:
+      "https://static.wikia.nocookie.net/blue-archive/images/b/b0/Marina_Halo.png",
+    introduction: [
+      "Marina is the chairperson of the security committee in charge of maintaining security in Red Winter. Whenever there is a problem in Red Winter, she is the first to go out, but as a result, she often gets lost...",
+    ],
+    personality: [""],
+    appearance: [""],
+    uniform: [""],
+    haloInfo: [""],
+    firearm:
+      "https://static.wikia.nocookie.net/blue-archive/images/7/75/Marina_UE.png",
+    firearmInfo:
+      "Marina's favorite submachine gun with drum magazine. Its astonishing rate of fire is relentless in its assault on those who question Red Winter's authority.",
+    firearmName: "Balalaika",
+    l2d:
+      "https://static.wikia.nocookie.net/blue-archive/images/b/b4/Marina_Live2D.gif",
+    l2dIcon:
+      "https://static.wikia.nocookie.net/blue-archive/images/6/68/Marina_Icon_2.png",
+    trivia: [
+      "Earlier models of her shows that she used a PP-90 submachine gun instead.",
+    ],
+    voice: "",
+  },
+
+  mashiro: {
+    fName: "Mashiro",
+    lName: "Shizuyama",
+    jpName: "静山マシロ",
+    quote: "Target acquired...This distance is sufficient.	",
+    icon:
+      "https://static-new.miraheze.org/bluearchivewiki/0/06/Mashiro.png?version=103e8eeeb82d3487da1e00f290e1c129",
+    icon1:
+      "https://static.wikia.nocookie.net/blue-archive/images/0/0e/Mashiro_Icon.png",
+    portrait:
+      "https://static.wikia.nocookie.net/blue-archive/images/f/f8/Mashiro_Portrait.png",
+    sprite:
+      "https://static.wikia.nocookie.net/blue-archive/images/6/6a/Mashiro_Sprite.png",
+    halo:
+      "https://static.wikia.nocookie.net/blue-archive/images/e/e5/Mashiro_Halo.png",
+    introduction: [
+      "A Sincere member of Trinity's Justice Realization Committee. Carrying a unweighty large rifle, Mashiro quietly carried out her responsibilities in providing fire support missions.",
+      "Normally one of few words and rarely interacting with other people, she isn't shy or uncomfortable with interpersonal relationships. Rather, once talks of justice, she becomes quite the conversational partner.",
+    ],
+    personality: [""],
+    appearance: [""],
+    uniform: [
+      "She has black bob cut hair with bangs, black shiny eyes and black angel wings on the back.",
+      'She wears a standard uniform, wearing a black sailor shirt with red strip on the pleated skirt and sleeves, a red armband written "Justice", and a red ribbon with choker on the neck.',
+      "Her hands are covered with black armed gloves, black socks and black boots with red soles.",
+    ],
+    haloInfo: [
+      "Mashiro's halo has a red circles with outer circle has wings and sharp tail attached.",
+    ],
+    firearm:
+      "https://static.wikia.nocookie.net/blue-archive/images/5/55/Mashiro_UE.png/revision",
+    firearmInfo: "Manifestation of Justice",
+    firearmName:
+      "This is the sniper rifle that Mashiro uses to carry out her activities as a member of the Justice Realization Committee. Although the size of the rifle is not suitable to carry around, according to Mashiro, such a thing is meaningless in the face of justice.",
+    l2d:
+      "https://static.wikia.nocookie.net/blue-archive/images/f/ff/Mashiro_Live2D.gif",
+    l2dIcon:
+      "https://static.wikia.nocookie.net/blue-archive/images/9/99/Mashiro_Icon_2.png",
+    trivia: [""],
+    voice: "",
+  },
+
+  michiru: {
+    fName: "Michiru",
+    lName: "Chidori",
+    jpName: "千鳥ミチル",
+    quote: "How was it? That's the power of our Ninjutsu Research Club!",
+    icon:
+      "https://static-new.miraheze.org/bluearchivewiki/e/e6/Michiru.png?version=052a09a145a6c85ed655faaffa8872bf",
+    icon1:
+      "https://static.wikia.nocookie.net/blue-archive/images/2/24/Michiru_Icon.png",
+    portrait:
+      "https://static.wikia.nocookie.net/blue-archive/images/1/1b/Michiru_Portrait.png",
+    sprite:
+      "https://static.wikia.nocookie.net/blue-archive/images/4/41/Michiru_Sprite.png",
+    halo:
+      "https://static.wikia.nocookie.net/blue-archive/images/d/d5/Michiru_Halo.png",
+    introduction: [
+      "Michiru is the club president of the Ninjutsu Research Department. Every day, she works hard with her fellow club members in uploading videos and doing all sorts of other activities in order to show everyone in Kivotos how cool ninjas are!",
+    ],
+    personality: [""],
+    appearance: [""],
+    uniform: [""],
+    haloInfo: [""],
+    firearm:
+      "https://static.wikia.nocookie.net/blue-archive/images/0/0d/Michiru_UE.png",
+    firearmInfo:
+      "Michiru's favorite shotgun It has been modified to fire special bullets and has been fitted with additional parts for her use in ninjutsu techniques. Although it may seem rather difficult to use, Michiru says, It has a certain flavor to it!",
+    firearmName: "Michiru-Style Overflow Shotgun",
+    l2d: "",
+    l2dIcon:
+      "https://static.wikia.nocookie.net/blue-archive/images/c/c0/Michiru_Icon_2.png",
+    trivia: [
+      "Michiru's voice actor, Mizuhashi Kaori, also voices Matsushima Michiru from the Grisaia series.",
+      "Her birthday is on Ninja Day.",
+      "Michiru's normal skill, 「Sabake, Jigokuninmadou!」(Handling, Concealed Demon Sword of Hell!), is a parody of a Korean meme where a grandma draws a katana with a serious face. The Japanese spelling of the meme is「Kire! Jigokusanmadou!」(Slice! Decapitating Demon Sword of Hell!). The meme is further parodied by the skill animation, where she draws her wakizashi in the same manner.",
+      "Her weapon can be easily confused for a Valtro RO-5 or a Stoeger SP 312 for how differently her UE icon is drawn from the sprite. Both shotguns feature a flat receiver end as opposed to traditional shotgun designs using a rounded receiver.",
+      "The existence of a breacher muzzle on her Remington 870 implies that her weapon can be used for door breaching roles but the presence of a Masterkey attachment tells that she has two breacher shotguns in the same weapon. It is also noteworthy that the Masterkey is based off the Remington 870 design which means she has an 870 attached to an 870 making it more ridiculous than it looks.",
+    ],
+    voice: "",
+  },
+
+  midori: {
+    fName: "Midori",
+    lName: "Saiba",
+    jpName: "才羽ミドリ",
+    quote: "It's as precise as a dot...!",
+    icon:
+      "https://static-new.miraheze.org/bluearchivewiki/e/ee/Midori.png?version=aec01d62bf6034e8c2582827b8eb2a2c",
+    icon1:
+      "https://static.wikia.nocookie.net/blue-archive/images/a/ae/Midori_Icon.png",
+    portrait:
+      "https://static.wikia.nocookie.net/blue-archive/images/7/7a/Midori_Portrait.png",
+    sprite:
+      "https://static.wikia.nocookie.net/blue-archive/images/5/5a/Midori_Sprite.png",
+    halo:
+      "https://static.wikia.nocookie.net/blue-archive/images/2/26/Midori_Halo.png",
+    introduction: [
+      "The illustrator for The Game Development Dept. at Millennium. Both she and her older twin sister, Momoi are literally developing video games in the Department.",
+      "Although her shy personality are polar opposite for her cheerful sister, but their passion for games are strikingly similar and become great partners.",
+    ],
+    personality: [
+      "Contrasting Momoi, Midori is quieter and more reserved, only giving in to outbursts when angered or excited. She is no less passionate towards gaming than her sister however, though less likely to be offended. She's also a bit more pessimistic than she is.",
+      "When it comes to their feelings towards Sensei, Midori is the more overtly romantic of the two, although both sisters insist on hiding any possible romantic interactions from anyone else, especially the other sister.",
+    ],
+    appearance: [""],
+    uniform: [
+      "She has long shoulder-length orange hair with bangs and tied in pigtails with blue ribbons each. She has cat-eared headset with neon green color scheme and lime eyes.",
+      "She wears a standard Millennium high-school uniform, including a white and green hoodie, a untucked white shirt with blue tie underneath and white accented black shorts, a long sock and black boots with green edges.",
+    ],
+    haloInfo: [
+      "Midori's halo has two neon green circle with four spiked crosshair on it's rim.",
+    ],
+    firearm:
+      "https://static.wikia.nocookie.net/blue-archive/images/7/74/Midori_UE.png",
+    firearmInfo:
+      "A sniper rifle used by Midori. She has an accessory that was given by her dear sister, and when she is in trouble, she plays with it and it seems to inspire her.",
+    firearmName: "Flashy Inspiration",
+    l2d:
+      "https://static.wikia.nocookie.net/blue-archive/images/e/e5/Midori_Live2D.gif",
+    l2dIcon:
+      "https://static.wikia.nocookie.net/blue-archive/images/a/a3/Midori_Icon_2.png",
+    trivia: ['Her name, "Midori" (ミドリ), means "Green".'],
+    voice:
+      "https://static.wikia.nocookie.net/blue-archive/images/d/d9/Midori_LogIn_1.ogg",
+  },
+
+  miku: {
+    fName: "Miku",
+    lName: "Hatsune",
+    jpName: "初音ミク",
+    quote: "I'm gonna make this even more fun!",
+    icon:
+      "https://static-new.miraheze.org/bluearchivewiki/9/93/Hatsune_Miku.png?version=706a3902786f7d64c3f46e7472b409e3",
+    icon1:
+      "https://static.wikia.nocookie.net/blue-archive/images/3/39/Miku_Icon.png",
+    portrait:
+      "https://static.wikia.nocookie.net/blue-archive/images/f/fd/Miku_Portrait.png",
+    sprite: "",
+    halo:
+      "https://static.wikia.nocookie.net/blue-archive/images/9/98/Miku_Halo.png",
+    introduction: [
+      "Hatsune Miku, the virtual singer who is always cheerful and loves to sing! By using the technology of Kivotos, she was able to take on a physical form and successfully land in this world...! It seems that there are many of Miku's fans here as well.",
+    ],
+    personality: [""],
+    appearance: [""],
+    uniform: [""],
+    haloInfo: [""],
+    firearm:
+      "https://static.wikia.nocookie.net/blue-archive/images/e/e4/Miku_UE.png",
+    firearmInfo:
+      "A giant cannon used by Hatsune Miku to hand out T-shirts and other merchandise during her live performances. The surface is covered with diodes and other materials that emit beautiful light in time with the live music.",
+    firearmName: "Live T-Shirt Cannon",
+    l2d:
+      "https://static.wikia.nocookie.net/blue-archive/images/c/cf/Miku_Live2D.gif",
+    l2dIcon:
+      "https://static.wikia.nocookie.net/blue-archive/images/4/4a/Miku_Icon_2.png",
+    trivia: [
+      "Due to her being a collaboration character, she is the first playable-character who:",
+      "does not belong to any of the 9 schools.",
+      "does not have a particular favourite gift with the exception of gifts that grants great effect on every students.",
+      "does not use any materials in her skill upgrade.",
+      "She gains a physical body upon entering Kivotos.",
+    ],
+    voice: "",
+  },
+
+  mimori: {
+    fName: "Mimori",
+    lName: "Mizuha",
+    jpName: "水羽ミモリ",
+    quote:
+      "I'm still a rookie, but I will show you the results of my training...",
+    icon:
+      "https://static-new.miraheze.org/bluearchivewiki/8/82/Mimori.png?version=77747b5732d91d5cb8a6656e9c3d94c0",
+    icon1:
+      "https://static.wikia.nocookie.net/blue-archive/images/8/84/Mimori_Icon.png",
+    portrait:
+      "https://static.wikia.nocookie.net/blue-archive/images/3/30/Mimori_Portrait.png",
+    sprite:
+      "https://static.wikia.nocookie.net/blue-archive/images/6/69/Mimori_Sprite.png",
+    halo:
+      "https://static.wikia.nocookie.net/blue-archive/images/4/49/Mimori_Halo.png",
+    introduction: [
+      "Influenced by a girl's manga she read as a child, deputy director Mimori joined the Etiquette Training Society out of a longing to become a \"Yamato Nadeshiko\". With her cheerful smile and gentle demeanor, she is a student who is very well-liked by everyone! She actively takes care of her club members' meals and personal care.",
+    ],
+    personality: [""],
+    appearance: [""],
+    uniform: [""],
+    haloInfo: [""],
+    firearm:
+      "https://static.wikia.nocookie.net/blue-archive/images/d/da/Mimori_UE.png",
+    firearmInfo:
+      "An automatic pistol that Mimori carries. She bought it when she first dreamed of becoming a beautiful lady, and she takes good care of it every day.",
+    firearmName: "Soft Determination",
+    l2d:
+      "https://static.wikia.nocookie.net/blue-archive/images/f/fe/Mimori_Live2D.gif",
+    l2dIcon:
+      "https://static.wikia.nocookie.net/blue-archive/images/4/43/Mimori_Icon_2.png",
+    trivia: [
+      'Her character design and personality is similar to that of Lacus Clyne from Gundam SEED as both character not only share a similar personalities and qualities of a "Yamato Nadeshiko" but also the same seiyuu.',
+    ],
+    voice: "",
+  },
+
+  misaki: {
+    fName: "Misaki",
+    lName: "Imashino",
+    jpName: "戒野ミサキ",
+    quote: "Towards vanity, there lies no answer. But even so...",
+    icon:
+      "https://static-new.miraheze.org/bluearchivewiki/a/ae/Misaki.png?version=db4af03845631d7aee82ecbbaaf6ca26",
+    icon1:
+      "https://static.wikia.nocookie.net/blue-archive/images/8/8f/Misaki_Icon.png",
+    portrait:
+      "https://static.wikia.nocookie.net/blue-archive/images/2/2c/Misaki_Portrait.png",
+    sprite:
+      "https://static.wikia.nocookie.net/blue-archive/images/e/e8/Misaki_Sprite.png",
+    halo:
+      "https://static.wikia.nocookie.net/blue-archive/images/d/de/Misaki_Halo.png",
+    introduction: [
+      "One of the four members of Arius Branch School's elite Arius Squad. Misaki is a girl that gives off the impression of being an unsociable girl with little words. She shows little interest in both others and herself, and her wrist and neck are layered thickly with bandages, as if attempting to hide something...",
+    ],
+    personality: [""],
+    appearance: [
+      "Misaki has short brown hair in a bob cut. Her eyes are brown.",
+    ],
+    uniform: [""],
+    haloInfo: [
+      "Her halo is a large red cross with multiple smaller red crosses evenly distributed throughout.",
+    ],
+    firearm:
+      "https://static.wikia.nocookie.net/blue-archive/images/b/be/Misaki_UE.png",
+    firearmInfo:
+      "A rocket launcher used by Misaki. Upon firing, it separates into multiple bullets when it reaches a certain altitude, creating a wide range of explosions.",
+    firearmName: "Saint Predator",
+    l2d:
+      "https://static.wikia.nocookie.net/blue-archive/images/2/2c/Misaki_EX.gif",
+    l2dIcon:
+      "https://static.wikia.nocookie.net/blue-archive/images/0/09/Misaki_Icon_2.png",
+    trivia: [
+      "She shares the same voice actor as Higuchi Madoka from THE iDOLM@STER SHINY COLORS.",
+      "She is the first playable student who wields a rocket launcher.",
+      "In Volume 3, Chapter 3 Act 22 of the main story, she was originally labelled as a Mystic and Heavy type student.",
+      "She is one of the few students who has a removable piece of accessory by pressing 🔁 in the main menu.",
+    ],
+    voice: "",
+  },
+
+  miyako: {
+    fName: "Miyako",
+    lName: "Tsukiyuki",
+    jpName: "月雪ミヤコ",
+    quote: "This is RABBIT 1, we will now begin operations.	",
+    icon:
+      "https://static-new.miraheze.org/bluearchivewiki/3/3e/Miyako.png?version=57e154ed229afa92faedbc34b35b42bc",
+    icon1:
+      "https://static.wikia.nocookie.net/blue-archive/images/f/f7/Miyako_Icon.png",
+    portrait:
+      "https://static.wikia.nocookie.net/blue-archive/images/d/d8/Miyako_Portrait.png",
+    sprite:
+      "https://static.wikia.nocookie.net/blue-archive/images/8/84/Miyako_Sprite.png",
+    halo:
+      "https://static.wikia.nocookie.net/blue-archive/images/9/9f/Miyako_Halo.png",
+    introduction: [
+      "Miyako is a member of SRT Special Academy and the leader of the RABBIT Platoon. Her facial expressions rarely change and she rarely shows her emotions. People around her tend to think she is unsociable, but in her heart, she is a kind-hearted platoon leader who is always concerned about her team members.",
+    ],
+    personality: [""],
+    appearance: [""],
+    uniform: [""],
+    haloInfo: [
+      "Miyako's cyan halo is formed by two circles, one inside the other one, and is surrounded by eight jagged shapes.",
+    ],
+    firearm:
+      "https://static.wikia.nocookie.net/blue-archive/images/9/98/Miyako_UE.png",
+    firearmInfo:
+      "Miyako was issued a regulation submachine gun by the SRT Special Academy. It is a highly reliable gun and can effectively repel the enemy even under extreme circumstances.",
+    firearmName: "Rabbit-31 Short Type Submachine Gun",
+    l2d:
+      "https://static.wikia.nocookie.net/blue-archive/images/1/1b/Miyako_Live2D.gif",
+    l2dIcon:
+      "https://static.wikia.nocookie.net/blue-archive/images/8/87/Miyako_Icon_2.png",
+    trivia: [""],
+    voice: "",
+  },
+
+  miyu: {
+    fName: "Miyu",
+    lName: "Kasumizawa",
+    jpName: "霞沢ミユ",
+    quote: "his is RABBIT4...Um, did you just call me?	",
+    icon:
+      "https://static-new.miraheze.org/bluearchivewiki/a/ac/Miyu.png?version=230f985afb5ab36290530dfc13ec5d29",
+    icon1:
+      "https://static.wikia.nocookie.net/blue-archive/images/2/23/Miyu_Icon.png",
+    portrait:
+      "https://static.wikia.nocookie.net/blue-archive/images/f/f6/Miyu_Portrait.png",
+    sprite:
+      "https://static.wikia.nocookie.net/blue-archive/images/d/d9/Miyu_Sprite.png",
+    halo:
+      "https://static.wikia.nocookie.net/blue-archive/images/5/51/Miyu_Halo.png",
+    introduction: [
+      "Miyu, a member of the RABBIT platoon, entered SRT because she was recognized for her talent as a sniper. Now that the school is closed, she spends her days living in a park with other members of the platoon. Her presence is scarce and is useful as a sniper, but she can be forgotten by her allies sometimes...",
+    ],
+    personality: [
+      "Despite Miyu being a capable sniper, she is a very shy person and has low self-esteem, She always seems to be invisible to other people when out in public, which causes her to accidentally get pushed around a lot. Her biggest fear is her being forgotten by everyone, including her own allies.",
+    ],
+    appearance: [""],
+    uniform: [""],
+    haloInfo: [
+      "Miyu's halo is a light pink color formed with an inner little circle, a middle circle cutted in four sides and four thick outer semicircles, one in every side of the middle circle. In addition it has three little drops scattered around it.",
+    ],
+    firearm:
+      "https://static.wikia.nocookie.net/blue-archive/images/e/e6/Miyu_UE.png",
+    firearmInfo:
+      "An official sniper rifle that Miyu was issued by the SRT Special Academy. It is precisely crafted and boasts an astonishing hit rate.",
+    firearmName: "RABBIT-39 Type Rifle",
+    l2d:
+      "https://static.wikia.nocookie.net/blue-archive/images/d/d7/Miyu_Live2D.gif",
+    l2dIcon:
+      "https://static.wikia.nocookie.net/blue-archive/images/c/cb/Miyu_Icon_2.png",
+    trivia: [""],
+    voice: "",
+  },
+
+  moe: {
+    fName: "Moe",
+    lName: "Kazekura",
+    jpName: "風倉モエ",
+    quote: "This is RABBIT 3, where is the next bombing site?",
+    icon:
+      "https://static-new.miraheze.org/bluearchivewiki/thumb/c/cc/Moe.png/266px-Moe.png",
+    icon1:
+      "https://static.wikia.nocookie.net/blue-archive/images/0/06/Moe_Icon.png",
+    portrait:
+      "https://static.wikia.nocookie.net/blue-archive/images/9/98/Moe_Portrait.png",
+    sprite: "",
+    halo: "",
+    introduction: [
+      "A member of the RABBIT Platoon of SRT Special School. She is a dangerous girl who gets a thrill out of unleashing massive firepower without regards to any short or/and long term consequences. Her reason for not leaving SRT is due to her wanting to use the most advanced high explosive weapons.",
+    ],
+    personality: [""],
+    appearance: [
+      "Moe has brown hair that's tied into low pigtails using hair ties that have two white pom-poms. Her eyes are amber in color and she wears a pair of circle glasses.",
+    ],
+    uniform: [""],
+    haloInfo: [
+      "Her halo is a golden ring that's broken up by four small, evenly spaced triangles that point inwards. There is another ring inside it that's smaller in radius and slightly lower.",
+    ],
+    firearm:
+      "https://static.wikia.nocookie.net/blue-archive/images/8/89/Moe_UE.png",
+    firearmInfo:
+      "An official pistol provided to Moe by the SRT Special Academy. Despite being a handgun, it possesses a high rate of fire and can empty its magazine in an instant.",
+    firearmName: "Rabbit Type 224 Pistol",
+    l2d:
+      "https://static.wikia.nocookie.net/blue-archive/images/c/cf/Moe_EX.gif",
+    l2dIcon:
+      "https://static.wikia.nocookie.net/blue-archive/images/a/ab/Moe_Icon_2.png",
+    trivia: [
+      "The Black Hawk she's flying seems to be the same aircraft where Saki is seen rappelling down in her EX skill. It could also be the same aircraft where Miyako is present in her memorial CG.",
+    ],
+    voice: "",
+  },
 };
 
 export default StudentInfo;
