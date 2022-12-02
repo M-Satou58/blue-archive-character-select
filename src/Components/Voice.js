@@ -1,4 +1,6 @@
-const Voice = ({voice}) => {
+const noAudioIcon = "https://img.icons8.com/ios-glyphs/30/ffffff/no-audio--v1.png"
+const audioIcon = "https://img.icons8.com/ios-glyphs/30/ffffff/medium-volume.png"
+const Voice = ({selectedStudent, voice}) => {
  
   const playVoice = () => {
     if (voice.paused) {
@@ -17,7 +19,7 @@ const Voice = ({voice}) => {
     >
       <img 
         className="m-auto"
-        src="https://img.icons8.com/ios-glyphs/30/ffffff/medium-volume.png" alt=""
+        src={selectedStudent.voice ? audioIcon : noAudioIcon} alt=""
       />
     </div>
   )

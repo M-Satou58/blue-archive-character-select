@@ -10,7 +10,7 @@ const Halo = ({selectedStudent}) => {
            </div>    
         </div>
         <div class="back p-4 rounded-md overflow-auto scrollbar-hide">
-          <h1 className="px-2 text-2xl bg-black font-medium">Halo</h1>
+          <h1 className="px-2 text-2xl rounded-sm bg-black font-medium">Halo</h1>
           <div className="mt-2 overflow-auto scrollbar-hide bg-blue rounded-b-md" style={{height:"300px"}}>
             {selectedStudent.haloInfo.map((text, i) => {
               return <p key={i} className="p-2 mt-2 text-white" style={{letterSpacing:'2px'}}>{text}</p>

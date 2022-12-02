@@ -26,7 +26,7 @@ const Student = ({
         onClick={clickHandler}
     >
       <img className="drop-shadow-md" src={student.icon} alt ="" />
-      <span className="font-semibold">{student.fName}</span>
+      <span className="font-bold text-sm">{student.fName}</span>
     </div>
   )
 }

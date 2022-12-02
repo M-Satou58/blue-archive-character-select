@@ -11,7 +11,7 @@ import Voice from './Components/Voice.js'
 import StudentInfo from './StudentInfo.js'
 
 function App() {
-  const [selectedStudent, setSelectedStudent] = useState(StudentInfo['aru'])
+  const [selectedStudent, setSelectedStudent] = useState(StudentInfo['yuuka'])
   const [togglePortrait, setTogglePortrait] = useState(true)
   const [toggleAppearance, setToggleAppearance] = useState(false)
   const [toggleHalo, setToggleHalo] = useState(false)
@@ -142,7 +142,7 @@ function App() {
           </div>
         </div>
         <Name selectedStudent={selectedStudent} />
-        <Voice voice={voice} /> 
+        <Voice selectedStudent={selectedStudent} voice={voice} /> 
         
       </div>
     </div>

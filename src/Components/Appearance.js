@@ -1,28 +1,26 @@
+import "./cardFlip.css"
 const Appearance = ({selectedStudent}) => {
-
   return (
     <div className="card rounded-md" style={{height: '355px'}}>
       <div className="content shadow-blue rounded-md shadow-sm">
-        <div className="front flex flex-col w-full h-full justify-center p-4">
-            <h1 className="text-center text-2xl text-black">Sprite</h1>
-            <div className="flex h-full justify-center items-center mb-2">
-              <img className="" src={selectedStudent.sprite} alt="" />
-           </div>    
-        </div>
-        <div className="back p-4 rounded-md overflow-auto scrollbar-hide">
-          <h1 className="px-2 text-2xl bg-black rounded-sm font-medium">Appearance</h1>
-          <div className="mt-2 overflow-auto scrollbar-hide bg-blue rounded-b-md" style={{height:"300px"}}>
-            {selectedStudent.appearance.map((text, i) => {
-               return <p key={i} className="p-2 mt-2  text-white" style={{letterSpacing:'2px'}}>{text}</p>
-            })}
-          </div>
-        </div>
+        <div className="front flex w-full h-full justify-center p-4">
+          <img className=""src={selectedStudent.portrait} alt="" />
+      </div>
+     <div className="back p-4 rounded-md overflow-auto scrollbar-hide">
+
+        <h1 className="text-2xl px-2 rounded-sm bg-black">Appearance</h1>
+          {selectedStudent.appearance.map((text, i) => {
+            return <p key={i} className="mx-2 my-4" style={{letterSpacing: '2px'}}>{text}</p>
+          })}
+        <h1 className="text-2xl px-2 mt-2 rounded-sm bg-black">Uniform</h1>
+          {selectedStudent.uniform.map((text, i) => {
+            return <p key={i} className="mx-2 my-4" style={{letterSpacing: '2px'}}>{text}</p>
+          })}
+     </div>
     </div>
   </div>
   )
-
 }
 
 export default Appearance 
-
 

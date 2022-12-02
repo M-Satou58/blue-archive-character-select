@@ -1752,7 +1752,7 @@ const StudentInfo = {
       "https://static.wikia.nocookie.net/blue-archive/images/d/db/Kirino_UE.png",
     firearmInfo:
       "A regulation pistol issued to Kirino by the Valkyrie Police Academy. Kirino blame this gun for her shooting skills to be off, but there's nothing wrong with the gun.",
-    firearmName: "EValkyrie Standard Issue No. 3 Pistol",
+    firearmName: "Valkyrie Standard Issue No. 3 Pistol",
     l2d:
       "https://static.wikia.nocookie.net/blue-archive/images/2/22/Kirino_Live2D.gif",
     l2dIcon:
@@ -1803,7 +1803,7 @@ const StudentInfo = {
     l2d:
       "https://static.wikia.nocookie.net/blue-archive/images/0/0e/Koharu_Live2D.gif",
     l2dIcon:
-      "https://static.wikia.nocookie.net/blue-archive/images/a/a5/Koharu_Icon_2.png/revision",
+      "https://static.wikia.nocookie.net/blue-archive/images/a/a5/Koharu_Icon_2.png",
     trivia: [
       'In CBT, her attack type was originally "Penetration" before changing into "Explosive".',
       'Her EX-Skill refers to the "Holy Hand Grenade" that was depicted in the movie Monty Python and the Holy Grail.',
@@ -1965,7 +1965,7 @@ const StudentInfo = {
     l2d:
       "https://static.wikia.nocookie.net/blue-archive/images/7/71/Maki_Live2D.gif",
     l2dIcon:
-      "https://static.wikia.nocookie.net/blue-archive/images/0/03/Maki_Icon_2.png/revision",
+      "https://static.wikia.nocookie.net/blue-archive/images/0/03/Maki_Icon_2.png",
     trivia: [
       "She bears the same appearance with Akari Akaza.Both even share's the same hair color and hair buns too.",
     ],
@@ -2076,10 +2076,12 @@ const StudentInfo = {
       "Mashiro's halo has a red circles with outer circle has wings and sharp tail attached.",
     ],
     firearm:
-      "https://static.wikia.nocookie.net/blue-archive/images/5/55/Mashiro_UE.png/revision",
-    firearmInfo: "Manifestation of Justice",
-    firearmName:
+      "https://static.wikia.nocookie.net/blue-archive/images/5/55/Mashiro_UE.png",
+    firearmInfo:
       "This is the sniper rifle that Mashiro uses to carry out her activities as a member of the Justice Realization Committee. Although the size of the rifle is not suitable to carry around, according to Mashiro, such a thing is meaningless in the face of justice.",
+
+    firearmName: "Manifestation of Justice",
+
     l2d:
       "https://static.wikia.nocookie.net/blue-archive/images/f/ff/Mashiro_Live2D.gif",
     l2dIcon:
@@ -2408,6 +2410,1349 @@ const StudentInfo = {
       "The Black Hawk she's flying seems to be the same aircraft where Saki is seen rappelling down in her EX skill. It could also be the same aircraft where Miyako is present in her memorial CG.",
     ],
     voice: "",
+  },
+
+  momoi: {
+    fName: "Momoi",
+    lName: "Saiba",
+    jpName: "才羽モモイ1",
+    quote: "I can see the Scenario to Victory!",
+    icon:
+      "https://static-new.miraheze.org/bluearchivewiki/1/18/Momoi.png?version=bf3ecf3189762c3f7bcd7814f8bb8f7a",
+    icon1:
+      "https://static.wikia.nocookie.net/blue-archive/images/7/72/Momoi_Icon.png",
+    portrait:
+      "https://static.wikia.nocookie.net/blue-archive/images/b/b4/Momoi_Portrait.png",
+    sprite:
+      "https://static.wikia.nocookie.net/blue-archive/images/9/9f/Momoi_Sprite.png",
+    halo:
+      "https://static.wikia.nocookie.net/blue-archive/images/2/23/Momoi_Halo.png",
+    introduction: [
+      "The scenario writer for the Game Development Dept. at Millennium. Both she and her younger twin sister, Midori are literally developing video games in the Department.",
+      "Although her cheerful personality are polar opposite for her shy sister, but their passion for games are strikingly similar and become great partners.",
+    ],
+    personality: [""],
+    appearance: [""],
+    uniform: [
+      "She has long shoulder-length orange hair with bangs and tied in pigtails with red ribbons each. She has cat-eared headset with neon pink color scheme and magenta eyes.",
+      "She wears a standard Millennium high-school uniform, including a white and pink hoodie, a tucked-in white shirt with blue tie and black suspenders underneath and a pleated black skirt, a long sock and magenta floppy boots.",
+    ],
+    haloInfo: [
+      "Momoi's halo has two neon pink circle with four spiked crosshair on it's rim.",
+    ],
+    firearm:
+      "https://static.wikia.nocookie.net/blue-archive/images/3/3f/Momoi_UE.png",
+    firearmInfo:
+      "An assault rifle used by Momoi. She has an accessory given to her by his dear sister, and when she is in trouble, she plays with it and it seems to spark an idea.",
+    firearmName: "Unique Idea",
+    l2d:
+      "https://static.wikia.nocookie.net/blue-archive/images/c/c5/Momoi_Live2D.gif",
+    l2dIcon:
+      "https://static.wikia.nocookie.net/blue-archive/images/d/d9/Momoi_Icon_2.png",
+    trivia: ['Her name, "Momoi" (モモイ), means "Pink".'],
+    voice:
+      "https://static.wikia.nocookie.net/blue-archive/images/a/a2/Momoi_LogIn_2.ogg",
+  },
+
+  mutsuki: {
+    fName: "Mutsuki",
+    lName: "Asagi",
+    jpName: "浅黄ムツキ",
+    quote: "Fufu~, You need my help, don't you?",
+    icon:
+      "https://static-new.miraheze.org/bluearchivewiki/0/0b/Mutsuki.png?version=2e993a16b7a3dc23ac5e15685f9e4c9f",
+    icon1:
+      "https://static.wikia.nocookie.net/blue-archive/images/8/83/Mutsuki_Icon.png",
+    portrait:
+      "https://static.wikia.nocookie.net/blue-archive/images/5/54/Mutsuki_Portrait.png",
+    sprite:
+      "https://static.wikia.nocookie.net/blue-archive/images/4/40/Mutsuki_Sprite.png",
+    halo:
+      "https://static.wikia.nocookie.net/blue-archive/images/b/b9/Mutsuki_Halo.png",
+    introduction: [
+      'A 2nd year student at Gehenna Academy, Mutsuki holds the title of "Chief of staff" and is the assault activist and go-getter of Problem Solver 68.',
+      "Contrary to her guilt-riddled childhood friend Aru, she is a devilish troublemaker and commits acts of wanton wrongdoing without hesitation. No one can read Aru better than Mutsuki, so she understands her friend's bluff better than anyone else, even if she doesn't give any particular thought to the matter. While Aru understand's her bravado better than anyone else in Kivotos, she does not necessarily support her oldest friend's devilish personality.",
+    ],
+    personality: [
+      "Mutsuki is a mischievous prankster at heart, she often exposes Aru's true colors for fun. She even playfully teases and pranks Sensei, often making them uncomfortable.",
+    ],
+    appearance: [""],
+    uniform: [
+      "She has shoulder-length silver hair with long side ponytail tied by a black flower scrunchie. She has plum purple eyes.",
+      "She wears a standard uniform, including a black and red tank blazer with gold buttons and an insignia on her left sleeve, a red frilly dress and tucked-in white shirt underneath, a black thigh strap around her left leg, and a pair of black combat boots with red toecaps.",
+    ],
+    haloInfo: [
+      "Mutsuki's halo is a red colored set of two circles; four spikes form a crosshair on the outer circle, while a four petal flower rests inside the centre.",
+    ],
+    firearm:
+      "https://static.wikia.nocookie.net/blue-archive/images/6/6b/Mutsuki_UE.png",
+    firearmInfo:
+      "This is the machine gun that Mutsuki always carries around. According to her, firepower is important for fun pranks.",
+    firearmName: "Trick or Treat",
+    l2d:
+      "https://static.wikia.nocookie.net/blue-archive/images/1/12/Mutsuki_Live2D.gif",
+    l2dIcon:
+      "https://static.wikia.nocookie.net/blue-archive/images/b/b8/Mutsuki_Icon_2.png",
+    trivia: [""],
+    voice:
+      "https://static.wikia.nocookie.net/blue-archive/images/a/af/Mutsuki_LogIn_2.ogg",
+  },
+
+  natsu: {
+    fName: "Natsu",
+    lName: "Yutori",
+    jpName: "柚鳥ナツ",
+    quote: "Have you ever thought about shortcake?",
+    icon:
+      "https://static-new.miraheze.org/bluearchivewiki/thumb/9/90/Natsu.png/266px-Natsu.png",
+    icon1:
+      "https://static.wikia.nocookie.net/blue-archive/images/5/5b/Natsu_Icon.png",
+    portrait:
+      "https://static.wikia.nocookie.net/blue-archive/images/1/12/Natsu_Portrait.png",
+    sprite: "",
+    halo:
+      "https://static.wikia.nocookie.net/blue-archive/images/a/a1/Natsu_Halo.png",
+    introduction: [
+      "This is Natsu, the head troublemaker of the After-School Sweets Club and a self-proclaimed romantist!",
+      'Her desire to "share the romance with everyone" has led her to say outlandish things and get everyone involved, and her definition of "romance" is always changing...',
+    ],
+    personality: [""],
+    appearance: [""],
+    uniform: [""],
+    haloInfo: [""],
+    firearm:
+      "https://static.wikia.nocookie.net/blue-archive/images/c/ca/Natsu_UE.png",
+    firearmInfo:
+      'The submachine gun that Natsu carries. For her, who basically likes to contemplate, taking out this gun is often a "last resort".',
+    firearmName: "Beyond the Lumination",
+    l2d:
+      "https://static.wikia.nocookie.net/blue-archive/images/8/8e/Natsu_Live2D.gif",
+    l2dIcon:
+      "https://static.wikia.nocookie.net/blue-archive/images/8/8c/Natsu_Icon_2.png",
+    trivia: [
+      "Natsu shares many similarities to Laffey from Azur Lane, another game published by Yostar. Both of them share the same voice actor and constantly seen drinking something (Milk for Natsu and Oxycola/Alcohol for Laffey). Both of them also have similar facial reactions and hair color and a relaxed personality.",
+    ],
+    voice: "",
+  },
+
+  neru: {
+    fName: "Neru",
+    lName: "Mikamo",
+    jpName: "美甘ネル",
+    quote: "I'm going to destroy you!	",
+    icon:
+      "https://static-new.miraheze.org/bluearchivewiki/2/24/Neru.png?version=d1e9e4657c08a61cae484524da7a2082",
+    icon1:
+      "https://static.wikia.nocookie.net/blue-archive/images/0/0f/Neru_Icon.png",
+    portrait:
+      "https://static.wikia.nocookie.net/blue-archive/images/5/52/Neru_Portrait.png",
+    sprite:
+      "https://static.wikia.nocookie.net/blue-archive/images/a/aa/Neru_Sprite.png",
+    halo:
+      "https://static.wikia.nocookie.net/blue-archive/images/d/d2/Neru_Halo.png",
+    introduction: [
+      "The Leader of the Millennium's secret organization, Cleaning&Clearing C&C.",
+      "Looking indisputably like a delinquent with her Sukajan jacket over a maid's uniform, she's actually prideful of being the strongest agent in business with a 100% success rate. For this reason, she earned the codename \"Double O\" that is considered a symbol of victory by those in the industry.",
+    ],
+    personality: [
+      "She may seem a bit harsh, and seem blunt sometimes, she has a soft side deep down.",
+    ],
+    appearance: [
+      "She appears to wear an intricately designed Yakata over a French maid outfit.",
+    ],
+    uniform: [
+      "She has short vermillion hair with long crooked cowlick, a back knot and braid tied with two Millennium's tags on her left side and wears a French maid headdress. She has sharp red eyes.",
+      "She wears a black Sukajan jacket with red Sakura plants, a typical short French maid uniform underneath with loose blue ribbon, and red and black floppy boots.",
+    ],
+    haloInfo: [
+      "Neru's has a black circle with dashed edges merged inside a bigger dashed circle with a yellow triangle i the middle.",
+    ],
+    firearm:
+      "https://static.wikia.nocookie.net/blue-archive/images/4/45/Neru_UE.png",
+    firearmInfo:
+      "The two submachine guns used by Neru. Both are engraved with a beautiful pattern of golden dragons.",
+    firearmName: "Twin Dragon",
+    l2d:
+      "https://static.wikia.nocookie.net/blue-archive/images/7/78/Neru_Live2D.gif",
+    l2dIcon:
+      "https://static.wikia.nocookie.net/blue-archive/images/f/f6/Neru_Icon_2.png",
+    trivia: [""],
+    voice:
+      "https://static.wikia.nocookie.net/blue-archive/images/2/2f/Neru_LogIn_2.ogg",
+  },
+
+  noa: {
+    fName: "Noa",
+    lName: "Ushio",
+    jpName: " 生塩ノア",
+    quote: "Will you journey with me into the world of reason and rationality?",
+    icon:
+      "https://static-new.miraheze.org/bluearchivewiki/thumb/2/23/Noa.png/266px-Noa.png",
+    icon1:
+      "https://static.wikia.nocookie.net/blue-archive/images/3/31/Noa_Icon.png",
+    portrait:
+      "https://static.wikia.nocookie.net/blue-archive/images/b/bd/Noa_Portrait.png",
+    sprite: "",
+    halo:
+      "https://static.wikia.nocookie.net/blue-archive/images/c/c5/Noa_Halo.png",
+    introduction: [
+      'Noa is the secretary of the student council "Seminar" at Millennium Science School. She has a very good memory and can memorize almost everything she sees or hears once, including decisions made at the "Seminar" and records of the contents of meetings.',
+      "She is briefly mentioned twice in Clockwork Flower Pavane.",
+    ],
+    personality: [""],
+    appearance: [""],
+    uniform: [""],
+    haloInfo: [""],
+    firearm:
+      "https://static.wikia.nocookie.net/blue-archive/images/2/21/Noa_UE.png",
+    firearmInfo:
+      "Noa uses a pistol with a conversion kit. With the stock extended, it can be fired like a submachine gun.",
+    firearmName: "Secretary's Vote",
+    l2d:
+      "https://static.wikia.nocookie.net/blue-archive/images/9/91/Noa_EX.gif",
+    l2dIcon:
+      "https://static.wikia.nocookie.net/blue-archive/images/7/7f/Noa_Icon_2.png",
+    trivia: [
+      'Her Memorial Lobby features a French line that reads "Qui aimes-tu le mieux, homme énigmatique, dis ?", which translates to "Whom do you love the best, enigmatic man?"',
+      "In the 1st PV, Noa is shown reading a book called Flowers of Evil (惡の華), which is a reference to Charles Baudelaire's most famous work: a poetry collection of nearly all his works, titled Les Fleurs du mal (The Flowers of Evil).",
+      'Her gun "Secretary\'s Vote" is the third project involving Tokyo Marui hence why their company name is imprinted on the gun.',
+      "The Raider Brace seems to be Tokyo Marui's own design since the Raider design are not intended for 1911 or 2011 style handguns but for full sized SIG-Sauer P320 handguns only.",
+    ],
+    voice: "",
+  },
+
+  nodoka: {
+    fName: "Nodoka",
+    lName: "Amami",
+    jpName: "天見ノドカ",
+    quote: "The enemy will not be missed!",
+    icon:
+      "https://static-new.miraheze.org/bluearchivewiki/e/e1/Nodoka.png?version=dec584c8ba6bffec342ddbdcb80c8885",
+    icon1:
+      "https://static.wikia.nocookie.net/blue-archive/images/2/2a/Nodoka_Icon.png",
+    portrait:
+      "https://static.wikia.nocookie.net/blue-archive/images/3/35/Nodoka_Portrait.png",
+    sprite: "",
+    halo:
+      "https://static.wikia.nocookie.net/blue-archive/images/1/19/Nodoka_Halo.png",
+    introduction: [
+      'A student who belongs to the Red Winter Federal Academy, but is currently suspended in the old school building No. 227 special class. The reason for the suspension is "stalking with a telescope". She has a strong desire to observe beautiful things in the world with her own eyes, and the teacher is one of them. She has been poverty-stricken due to her long-suffering in the No. 227 special class.',
+    ],
+    personality: [""],
+    appearance: [""],
+    uniform: [""],
+    haloInfo: [""],
+    firearm:
+      "https://static.wikia.nocookie.net/blue-archive/images/d/d8/Nodoka_UE.png",
+    firearmInfo:
+      "This is the submachine gun that Nodoka carries when she goes out for astronomical observation. It comes with a light to illuminate the dark streets at night.",
+    firearmName: "Sagittarius Knight",
+    l2d:
+      "https://static.wikia.nocookie.net/blue-archive/images/b/b7/Nodoka_Live2D.gif",
+    l2dIcon:
+      "https://static.wikia.nocookie.net/blue-archive/images/9/9a/Nodoka_Icon_2.png",
+    trivia: [""],
+    voice: "",
+  },
+
+  nonomi: {
+    fName: "Nonomi",
+    lName: "Izayoi",
+    jpName: "十六夜ノノミ",
+    quote: "My children are all so cute!!	",
+    icon:
+      "https://static-new.miraheze.org/bluearchivewiki/thumb/a/ad/Nonomi.png/266px-Nonomi.png",
+    icon1:
+      "https://static.wikia.nocookie.net/blue-archive/images/7/7b/Nonomi_Icon.png",
+    portrait:
+      "https://static.wikia.nocookie.net/blue-archive/images/7/72/Nonomi_Portrait.png",
+    sprite:
+      "https://static.wikia.nocookie.net/blue-archive/images/4/42/Nonomi_Sprite.png",
+    halo:
+      "https://static.wikia.nocookie.net/blue-archive/images/2/21/Nonomi_Halo.png",
+    introduction: [
+      "A member of the task force of the Countermeasure Committee at Abydos High.",
+      "She has an emotional and gentle personality, and serves as a mental support for the Committee, many of whom have extreme personalities. Although she doesn't said it herself, she is the daughter of a very rich family, and most of the snacks for the Council come out from her allowance.",
+    ],
+    personality: [""],
+    appearance: [""],
+    uniform: [
+      "She has pale blonde, long hair reaching to her waist with side bun on her left side. She has emerald green eyes.",
+      "She dons the Abydos uniform but forgoes the tie and blazer and instead wears a white shirt under a beige cardigan with black piping loosely off her shoulders. The Abydos access badge hangs around her neck on a lanyard, grey skirt, a pair of black socks and white trainers",
+      "Her hands are covered with black tracking gloves and an Abydos access badge wrapped around her neck.",
+    ],
+    haloInfo: [
+      "Nonomi's halo has a neon green circle with another smaller circle inside and has 2 earlaps.",
+    ],
+    firearm:
+      "https://static.wikia.nocookie.net/blue-archive/images/3/3f/Nonomi_UE.png",
+    firearmInfo:
+      'A machine gun used by Nonomi. Despite the "little" name, it is quite large.',
+    firearmName: "Little Machine Gun V",
+    l2d:
+      "https://static.wikia.nocookie.net/blue-archive/images/2/2c/Nonomi_Live2D.gif",
+    l2dIcon:
+      "https://static.wikia.nocookie.net/blue-archive/images/d/d9/Nonomi_Icon_2.png",
+    trivia: [
+      "In CBT, she was a former 1★ student.",
+      "There is an ongoing theory that Nonomi is actually an undercover (and 5th) agent of Cleaning&Clearing mentioned by Akane",
+      'Nonomi\'s shoes has the initials "04", all of the students in Cleaning&Clearing has a number designation on them as tattoos or on their clothes',
+      'Her passive skill "Squeaky Clean Sweep" is a hint of her affiliation',
+      "Nonomi is often seen cleaning the school or in Sensei's case, their ear.",
+      "Nonomi is currently the only student who cannot be recruited from any banner, and her Elephs are not obtainable on any recruitment banner, too. They can only be obtained from the New Teacher Guide daily mission and the Eligma shop.",
+    ],
+    voice:
+      "https://static.wikia.nocookie.net/blue-archive/images/2/2c/Nonomi_LogIn_2.ogg",
+  },
+
+  pina: {
+    fName: "Pina",
+    lName: "Asahina",
+    jpName: "朝比奈フィーナ",
+    quote: "Fufu, you need me, don't you? Isn't that right?",
+    icon:
+      "https://static-new.miraheze.org/bluearchivewiki/9/96/Pina.png?version=11712b5c84efe35e6ea44d5b4541cee4",
+    icon1:
+      "https://static.wikia.nocookie.net/blue-archive/images/8/8e/Pina_Icon.png",
+    portrait:
+      "https://static.wikia.nocookie.net/blue-archive/images/8/86/Pina_Portrait.png",
+    sprite:
+      "https://static.wikia.nocookie.net/blue-archive/images/9/90/Pina_Sprite.png",
+    halo:
+      "https://static.wikia.nocookie.net/blue-archive/images/9/99/Pina_Halo.png",
+    introduction: [
+      "An overseas student with a strong admirer of chivalry and heroism at Hyakkiyako Alliance Academy. Rumor has it before she transferred to Hyakkiyako, she was a former student of an incredibly prestigious school in the West.",
+      "Her rare blonde hair, and broken languages makes her stood out the most but her energetic and positive feeling makes her easy to get along with everyone. Always cheerful and happy to help out other people, she learned of her yearning of said chivalry entirely through movies. All oddities aside.... she's a straight-forward girl with nothing but that on her path.",
+    ],
+    personality: [
+      'She strives to become a noble gangster based on the movies that she\'s a huge fan of. Tends to refer to the Sensei as "Boss".',
+    ],
+    appearance: [""],
+    uniform: [
+      "She has a long bright blond hair reaching her waist with loose bangs toward her left tied to a ponytail. She has bright blue eyes.",
+      "She has a loose red kimono with a golden wing pattern, a red overcoat which has red feathers attached with black pleated skirt with red stripes underneath. She also wear white loose socks with yellow and black ribbon on the rim and red thick wooden geta.",
+    ],
+    haloInfo: [
+      "Pina's halo is a red circle with two horns and wings across each other.",
+    ],
+    firearm:
+      "https://static.wikia.nocookie.net/blue-archive/images/1/14/Pina_UE.png",
+    firearmInfo:
+      "A machine gun owned by Fina. Pina handles the gun as if it were dancing, and she herself says that her heart is overflowing with enthusiasm.",
+    firearmName: "Disloyal Gunfight",
+    l2d: "",
+    l2dIcon:
+      "https://static.wikia.nocookie.net/blue-archive/images/a/a3/Pina_Icon_2.png",
+    trivia: [
+      'Her name in Japanese is "Fina (フィーナ)" but her Romanji name in her official introduction card calls her "Pina (ピーナ)".',
+    ],
+    voice: "",
+  },
+
+  saki: {
+    fName: "Saki",
+    lName: "Sorai",
+    jpName: "空井サキ",
+    quote: "RABBIT 2, arrive on site.",
+    icon:
+      "https://static-new.miraheze.org/bluearchivewiki/d/d0/Saki.png?version=18ac5158b1cf18a94ea33e52513d6cd8",
+    icon1:
+      "https://static.wikia.nocookie.net/blue-archive/images/5/50/Saki_Icon.png",
+    portrait:
+      "https://static.wikia.nocookie.net/blue-archive/images/e/e2/Saki_Portrait.png",
+    sprite:
+      "https://static.wikia.nocookie.net/blue-archive/images/3/36/Saki_Sprite.png",
+    halo:
+      "https://static.wikia.nocookie.net/blue-archive/images/0/0b/Saki_Halo.png",
+    introduction: [
+      'Saki is a member of the RABBIT platoon, in charge of the "point man" who leads and scouts the unit. She is the type of student who always carries an instructional manual with SRT tactics written on it and emphasizes following the principles of the school.',
+    ],
+    personality: [""],
+    appearance: [""],
+    uniform: [""],
+    haloInfo: [""],
+    firearm:
+      "https://static.wikia.nocookie.net/blue-archive/images/e/e1/Saki_UE.png",
+    firearmInfo:
+      "Saki was issued this machine gun by the SRT Special Academy. Its disadvantage is that it is difficult to maintain due to its structure, but on the other hand, it boasts powerful firepower as long as it is properly maintained.",
+    firearmName: "Rabbit-26 Type Machine Gun",
+    l2d:
+      "https://static.wikia.nocookie.net/blue-archive/images/c/c0/Saki_EX.gif",
+    l2dIcon:
+      "https://static.wikia.nocookie.net/blue-archive/images/c/c3/Saki_Icon_2.png",
+    trivia: [
+      "She is one of the few students who has a removable piece of accessory by pressing 🔁 in the main menu.",
+      "In her case, it's her helmet.",
+    ],
+    voice: "",
+  },
+
+  saori: {
+    fName: "Saori",
+    lName: "Joumae",
+    jpName: "錠前サオリ",
+    quote:
+      "In the name of paradise, we, Arius, will pass judgement onto you bastards.",
+    icon:
+      "https://static-new.miraheze.org/bluearchivewiki/thumb/4/46/Saori.png/266px-Saori.png",
+    icon1:
+      "https://static.wikia.nocookie.net/blue-archive/images/7/70/Saori_Icon.png",
+    portrait:
+      "https://static.wikia.nocookie.net/blue-archive/images/d/d0/Saori_Portrait.png",
+    sprite:
+      "https://static.wikia.nocookie.net/blue-archive/images/c/cb/Saori_Sprite.png",
+    halo:
+      "https://static.wikia.nocookie.net/blue-archive/images/1/15/Saori_Halo.png",
+    introduction: [
+      "An unparalleled expert in guerilla tactics, Saori can stay calm under pressure and doesn't hesitate to use whatever means necessary to accomplish her objective. Sometimes, though, she displays a seemingly contradictory side of herself, one that isn't afraid to let emotions surge forth in the heat of the moment.",
+    ],
+    personality: [""],
+    appearance: [""],
+    uniform: [
+      "Saori has navy blue hair that gradients into an azure blue. Her eyes are pale blue.",
+    ],
+    haloInfo: [
+      "Her halo is a large pale blue cross with a smaller cross surrounded by a ring under it.",
+    ],
+    firearm:
+      "https://static.wikia.nocookie.net/blue-archive/images/c/c8/Saori_UE.png",
+    firearmInfo:
+      "An Assault rifle used by Saori. Custom-made by Saori in pursuit of thorough efficiency. Once it captures prey, it never misses its target until the target is defeated.",
+    firearmName: "Arius Assault Rifle",
+    l2d:
+      "https://static.wikia.nocookie.net/blue-archive/images/2/2f/Saori_EX.gif",
+    l2dIcon:
+      "https://static.wikia.nocookie.net/blue-archive/images/8/8c/Saori_Icon_2.png",
+    trivia: [""],
+    voice: "",
+  },
+
+  saya: {
+    fName: "Saya",
+    lName: "Yakushi",
+    jpName: "薬子サヤ",
+    quote: "N/A",
+    icon:
+      "https://static-new.miraheze.org/bluearchivewiki/c/ce/Saya.png?version=40d90f5eaca88570fb1a462b698a6fe3",
+    icon1:
+      "https://static.wikia.nocookie.net/blue-archive/images/a/a3/Saya_Icon.png",
+    portrait:
+      "https://static.wikia.nocookie.net/blue-archive/images/2/29/Saya_Portrait.png",
+    sprite: "",
+    halo:
+      "https://static.wikia.nocookie.net/blue-archive/images/c/cc/Saya_Halo.png",
+    introduction: [
+      "Genius inventor at Shanhaijing Senior Secondary School.",
+      "She is a genius, having already earned six degrees in elementary school, but rather than being a genius, she is known as a troublemaker who bullies and causes problems for others. Saya has been good friends with Nezusuke, the mouse she always carries with her, since they were children, and he is like family to her.",
+    ],
+    personality: [""],
+    appearance: [""],
+    uniform: [""],
+    haloInfo: [""],
+    firearm:
+      "https://static.wikia.nocookie.net/blue-archive/images/1/16/Saya_UE.png",
+    firearmInfo:
+      "This is a specially made pistol that Saya has modified in many places. Apparently, it is also used to give injections to Nezusuke.",
+    firearmName: "My Special Pistol",
+    l2d:
+      "https://static.wikia.nocookie.net/blue-archive/images/8/8a/Saya_Live2D.gif",
+    l2dIcon:
+      "https://static.wikia.nocookie.net/blue-archive/images/5/5f/Saya_Icon_2.png",
+    trivia: [""],
+    voice: "",
+  },
+
+  sena: {
+    fName: "Sena",
+    lName: "Himuro",
+    jpName: "氷室セナ",
+    quote: "Bring the corp...no, bring the wounded over here",
+    icon:
+      "https://static-new.miraheze.org/bluearchivewiki/thumb/f/f4/Sena.png/266px-Sena.png",
+    icon1:
+      "https://static.wikia.nocookie.net/blue-archive/images/3/37/Sena_Icon.png",
+    portrait:
+      "https://static.wikia.nocookie.net/blue-archive/images/b/b6/Sena_Portrait.png",
+    sprite:
+      "https://static.wikia.nocookie.net/blue-archive/images/7/70/Sena_Sprite.png",
+    halo:
+      "https://static.wikia.nocookie.net/blue-archive/images/d/d3/Sena_Halo.png",
+    introduction: [
+      'Sena, the head of the Emergency Medical Department, continues to transport the injured without complaining no matter what the situation is in Gehenna. However, due to her habit of mistakenly calling the injured "corpses", she is not well received by some...',
+    ],
+    personality: [""],
+    appearance: [""],
+    uniform: [""],
+    haloInfo: [""],
+    firearm:
+      "https://static.wikia.nocookie.net/blue-archive/images/4/47/Sena_UE.png",
+    firearmInfo:
+      "A short-barreled grenade launcher used by Senna. A tool used to quickly remove obstacles when dispatching emergency services. Obstacles include anyone who gets in the way of your work.",
+    firearmName: "Emergency Rush Kit",
+    l2d:
+      "https://static.wikia.nocookie.net/blue-archive/images/9/9a/Sena_Live2D.gif",
+    l2dIcon:
+      "https://static.wikia.nocookie.net/blue-archive/images/c/ce/Sena_Icon_2.png",
+    trivia: [""],
+    voice:
+      "https://static.wikia.nocookie.net/blue-archive/images/0/08/Sena_LogIn_2.ogg",
+  },
+
+  serika: {
+    fName: "Serika",
+    lName: "Kuromi",
+    jpName: "黒見セリカ",
+    quote: "N-No, not at all.... It's not like I'm doing it for Sensei's sake.",
+    icon:
+      "https://static-new.miraheze.org/bluearchivewiki/c/c8/Serika.png?version=3a076ddb5baecfb8ab9fb3bccc1995f3",
+    icon1:
+      "https://static.wikia.nocookie.net/blue-archive/images/5/5f/Serika_Icon.png",
+    portrait:
+      "https://static.wikia.nocookie.net/blue-archive/images/0/05/Serika_Portrait.png",
+    sprite:
+      "https://static.wikia.nocookie.net/blue-archive/images/c/cf/Serika_Sprite.png",
+    halo:
+      "https://static.wikia.nocookie.net/blue-archive/images/f/f7/Serika_Halo.png",
+    introduction: [
+      "A secretary working for the task force at the Countermeasure Committee for Abydos High.",
+      "Kuromi Serika has difficulty expressing her true emotions. Often short-tempered, but in reality, is kind. She works part-time at Shibaseki, a restaurant, using her wage to pay Abydos High’s debt.",
+    ],
+    personality: [
+      "Often short-tempered and angry, but hardworking and kind. She often invites Sensei to participate in her multiple part-time jobs.",
+    ],
+    appearance: [""],
+    uniform: [
+      "She has navy blue hair tied in long twintails reaching to her legs. She wears bright cyan ribbons and a speaker earpiece. She has dark blue cat ears.",
+      "She wears a standard uniform, including a buttoned navy blue blazer with Abydos access badge, a white shirt and cyan tie underneath, and a pleated, plaid black skirt with black shorts.",
+      "Her hands are covered with black gloves with red on the palm area. She has a black knee wrap on her right leg, with similarly matching black socks and black and white sneakers with cyan shoelaces.",
+    ],
+    haloInfo: [
+      "Serika's halo has a red crosshair floating on top of her head with arrows on the outer ring.",
+    ],
+    firearm:
+      "https://static.wikia.nocookie.net/blue-archive/images/f/f8/Serika_UE.png",
+    firearmInfo:
+      "The assault rifle that Serika carries with her when she goes out to work part-time. It was always meticulously maintained, showing the meticulousness and sincerity of Serika.",
+    firearmName: "Sincerity",
+    l2d:
+      "https://static.wikia.nocookie.net/blue-archive/images/e/e1/Serika_Live2D.gif",
+    l2dIcon:
+      "https://static.wikia.nocookie.net/blue-archive/images/6/69/Serika_Icon_2.png",
+    trivia: [""],
+    voice:
+      "https://static.wikia.nocookie.net/blue-archive/images/8/80/Serika_LogIn_1.ogg",
+  },
+
+  serina: {
+    fName: "Serina",
+    lName: "Sumi",
+    jpName: "鷲見セリナ",
+    quote: "Has anyone been injured? I'll be there soon.",
+    icon:
+      "https://static-new.miraheze.org/bluearchivewiki/4/41/Serina.png?version=2c44a8f8e1add531afee698e185c7e94",
+    icon1:
+      "https://static.wikia.nocookie.net/blue-archive/images/c/c7/Serina_Icon.png",
+    portrait:
+      "https://static.wikia.nocookie.net/blue-archive/images/1/19/Serina_Portrait.png",
+    sprite:
+      "https://static.wikia.nocookie.net/blue-archive/images/9/91/Serina_Sprite.png",
+    halo:
+      "https://static.wikia.nocookie.net/blue-archive/images/d/db/Serina_Halo.png",
+    introduction: [
+      "A devoted kind girl and a Knight Hospitaller for Order of the Relief at Trinity. She is a kind-hearted person who took part in volunteer work at hospitals.",
+      "She becomes overly concerned about her patients' health, because of that, the students around her often say that she is like a mother to them. Despite her hate of conflict, sometimes she takes a resolute choice against merciless enemies.",
+    ],
+    personality: [""],
+    appearance: [""],
+    uniform: [
+      "She has a short pink hair with ponytail tied to her left side and wears a nurse headdress. She has pink eyes.",
+      "She wears a white varsity jacket with pink religious motif and a standard uniform; a white sailor dress with pink lines on the collar and gray and white pleated skirt underneath. She also carries a small pouch and wears white stoking and brown boots with pink soles.",
+    ],
+    haloInfo: [
+      "Serina's halo is a yellow circle with two fan pointing at a solid smaller circle inside another larger circle with pegs and blooms across each other, resembling a cross.",
+    ],
+    firearm:
+      "https://static.wikia.nocookie.net/blue-archive/images/c/cf/Serina_UE.png",
+    firearmInfo:
+      "An assault rifle that Serina carries. It's a syringe depending on how you use it...maybe.",
+    firearmName: "Tactical Therapy",
+    l2d:
+      "https://static.wikia.nocookie.net/blue-archive/images/3/35/Serina_Live2D.gif",
+    l2dIcon:
+      "https://static.wikia.nocookie.net/blue-archive/images/9/90/Serina_Icon_2.png",
+    trivia: [""],
+    voice: "",
+  },
+
+  shigure: {
+    fName: "Shigure",
+    lName: "Mayoi",
+    jpName: "間宵シグレ",
+    quote: "Well then...let's cheer up",
+    icon:
+      "https://static-new.miraheze.org/bluearchivewiki/d/da/Shigure.png?version=3a8e153e144c8ff0a0b27761ced2f06d",
+    icon1:
+      "https://static.wikia.nocookie.net/blue-archive/images/0/0c/Shigure_Icon.png",
+    portrait:
+      "https://static.wikia.nocookie.net/blue-archive/images/a/ab/Shigure_Portrait.png",
+    sprite:
+      "https://static.wikia.nocookie.net/blue-archive/images/5/5d/Shigure_Sprite.png",
+    halo: "",
+    introduction: [
+      'Red Winter\'s problem child. She is under house arrest in "No. 227 Special Class" after being suspended from school. The reason for the suspension is said to be "mixing vodka in her ration kompot (a drink made by soaking fruits in sugar)", but the truth is rumored to be that she intentionally caused a commotion in consideration of her childhood friend Nodoka, who was sent to a special class as a disciplinary action....',
+      'Red Winter\'s problem child. She is under house arrest in "No. 227 Special Class" after being suspended from school. The reason for the suspension is said to be "mixing vodka in her ration kompot (a drink made by soaking fruits in sugar)", but the truth is rumored to be that she intentionally caused a commotion in consideration of her childhood friend Nodoka, who was sent to a special class as a disciplinary action....',
+    ],
+    personality: [""],
+    appearance: [""],
+    uniform: [""],
+    haloInfo: [""],
+    firearm:
+      "https://static.wikia.nocookie.net/blue-archive/images/9/99/Shigure_UE.png",
+    firearmInfo:
+      "A grenade launcher that Shigure usually carries. A direct hit by this grenade makes the opponent dizzy, as the name implies.",
+    firearmName: "Spring Punch",
+    l2d:
+      "https://static.wikia.nocookie.net/blue-archive/images/7/7d/Shigure_EX.gif",
+    l2dIcon:
+      "https://static.wikia.nocookie.net/blue-archive/images/b/b4/Shigure_Icon_2.png",
+    trivia: [""],
+    voice: "",
+  },
+
+  shimiko: {
+    fName: "Shimiko",
+    lName: "Endo",
+    jpName: "円堂シミコ",
+    quote: "This book contains all wisdom from around the world.",
+    icon:
+      "https://static-new.miraheze.org/bluearchivewiki/thumb/f/f4/Shimiko.png/266px-Shimiko.png",
+    icon1:
+      "https://static.wikia.nocookie.net/blue-archive/images/c/c6/Shimiko_Icon.png",
+    portrait:
+      "https://static.wikia.nocookie.net/blue-archive/images/6/67/Shimiko_Portrait.png",
+    sprite:
+      "https://static.wikia.nocookie.net/blue-archive/images/0/03/Shimiko_Sprite.png",
+    halo:
+      "https://static.wikia.nocookie.net/blue-archive/images/9/93/Shimiko_Halo.png",
+    introduction: [
+      "A book worm and librarian of Library Committee of Trinity General School. She is one of the few students who has read the through the entire book collection in Trinity's Library.",
+      'She also loves to recommend books to others as much as she loves reading them and her first train of thought when meeting someone is "What book would suit this person\'s taste?"',
+    ],
+    personality: [""],
+    appearance: [""],
+    uniform: [
+      "She has long orange hair reaching to her legs tied in long pigtails with plaid green ribbons. She has orange floppy ears and blue eyes with metal glasses.",
+      "She wears a standard uniform, including a white blazer with yellow stripe, a matching pleated skirt and tucked-in white shirt underneath with golden buttons which also wears long socks with similar ribbons on the rears and black uwabaki.",
+    ],
+    haloInfo: [
+      "Shimiko's halo is a pink heart with a hollowed cross inside another heart with wings with another smaller heart on the top.",
+    ],
+    firearm:
+      "https://static.wikia.nocookie.net/blue-archive/images/6/6f/Shimiko_UE.png",
+    firearmInfo:
+      "A rifle used by Shimiko. She used it to bring order to the library, which tends to get into a lot of trouble.",
+    firearmName: "Library Ruler",
+    l2d: "",
+    l2dIcon:
+      "https://static.wikia.nocookie.net/blue-archive/images/3/35/Shimiko_Icon_2.png",
+    trivia: [""],
+    voice: "",
+  },
+
+  shiroko: {
+    fName: "Shiroko",
+    lName: "Sunaookami",
+    jpName: "砂狼シロコ",
+    quote: "The more prepared you are, the better. It's a simple rule.",
+    icon:
+      "https://static-new.miraheze.org/bluearchivewiki/6/63/Shiroko.png?version=5dc992d922ff3a11cb763f997aa5e5c8",
+    icon1:
+      "https://static.wikia.nocookie.net/blue-archive/images/7/79/Shiroko_Icon.png",
+    portrait:
+      "https://static.wikia.nocookie.net/blue-archive/images/a/ad/Shiroko_Portrait.png",
+    sprite:
+      "https://static.wikia.nocookie.net/blue-archive/images/6/65/Shiroko_Sprite.png",
+    halo:
+      "https://static.wikia.nocookie.net/blue-archive/images/e/ea/Shiroko_Halo.png",
+    introduction: [
+      "The sports-loving field captain of the Countermeasures Committee of the Abydos High School. Shiroko is a girl of a few words and shows little emotions alike. She may seem aloof with her appearance, but deeply cares about Abydos High School the most.",
+      "Due to troubling circumstances happening in Abydos High School she is willing to do anything to revitalize the school by any means. Often times though her ideas are sometimes ridiculous like proposing to rob a bank for school funds.",
+    ],
+    personality: [
+      "Shiroko is a soft-spoken girl, who deeply cares for her friends, to the extent that she would do anything to help her friends towards their goal of revitalizing the school. Her concern for her friends often overextends to leaps and bounds, going overboard with her idea of kindness, such as infamously proposing to rob a bank in order to secure the funds Abydos High needs, much to her disappointment when this idea was rejected. She, however, still fantasizes about doing it regardless.",
+      "With a reserved combative personality, Shiroko is willing to fight Hina the moment she laid eyes on her despite the head prefect's reputation, stopping only at Ayane's begging.",
+    ],
+    appearance: [""],
+    uniform: [
+      "Her hair style is medium length cut, stretching towards her shoulder. Accompanied with her gray wolf ears, at the bottom right is a T crossed hairpin in cyan; along with a small ear piercings.",
+      "She wears the standard Abydos High School uniform, consists of a white T-shirt tucked into her dark and grey patterned skirt, along with a navy blue blazer; while an Abydos badge hang in the right side of the blazer. She carries a Japanese style hanging bag in dark black color with keychains. Her running shoes is color black (with some parts being white), tied cyan shoe laces, and bottom light green out-soles. And finally, she wears long white socks with triangular designs at the end of the both socks.",
+    ],
+    haloInfo: [
+      "Shiroko's halo is cyan ring-shaped with four lines marked on its cardinal directions, with a blue circle inside.",
+    ],
+    firearm:
+      "https://static.wikia.nocookie.net/blue-archive/images/1/19/Shiroko_UE.png",
+    firearmInfo:
+      "Shiroko's favorite assault rifle. It is always well maintained, so it is always ready for anything to happen.",
+    firearmName: "WHITE FANG 465",
+    l2d:
+      "https://static.wikia.nocookie.net/blue-archive/images/a/af/Shiroko_Live2D.gif",
+    l2dIcon:
+      "https://static.wikia.nocookie.net/blue-archive/images/d/dd/Shiroko_Icon_2.png",
+    trivia: [
+      "In the CBT, she was a former 2★ Student.",
+      "She is the other mascot of Blue Archive, being the face of the game's app icon, present in two title screens and often part of marketing and special videos such as Christmas and New Year's.",
+      "She is very similar to Rosmontis from Arknights, with both being silver-haired anthromorphs (Though Shiroko is a wolf and Rosmontis is a feline). Coincidentally, both are voiced by Yui Ogura, with a similar soft-spoken nature.",
+      "Earlier concept arts present her using an FN Ballista, a bolt-action sniper rifle, as opposed to her current assault rifle. Its still painted in the same manner as her WHITE FANG 465.",
+      'Her unique weapon\'s name, WHITE FANG 465, features Japanese wordplay (goroawase). The number 4 can be pronounced as "shi", 6 as "ro", and 5 as "ko". Thus, the 465 in her weapon\'s name can be pronounced as "Shiroko".',
+    ],
+    voice:
+      "https://static.wikia.nocookie.net/blue-archive/images/4/44/Shiroko_LogIn_1.ogg",
+  },
+
+  shizuko: {
+    fName: "Shizuko",
+    lName: "Kawawa",
+    jpName: "河和シズコ",
+    quote: "	Oh! Welcome back, Sensei! Nyan Nyan! Yeah, Perfect.",
+    icon:
+      "https://static-new.miraheze.org/bluearchivewiki/7/77/Shizuko.png?version=85f2a8163194eb6e863bc3db51951c9c",
+    icon1:
+      "https://static.wikia.nocookie.net/blue-archive/images/0/04/Shizuko_Icon.png",
+    portrait:
+      "https://static.wikia.nocookie.net/blue-archive/images/6/63/Shizuko_Portrait.png",
+    sprite:
+      "https://static.wikia.nocookie.net/blue-archive/images/9/9a/Shizuko_Sprite.png",
+    halo:
+      "https://static.wikia.nocookie.net/blue-archive/images/7/72/Shizuko_Halo.png",
+    introduction: [
+      "The president of the Festival Management Committee, owner and poster girl of the coffee shop of the classic-style cafe, Momoyo Hall.",
+      "Despite the clumsy one, she's wasn't just a simple poster girl. In reality, she's a professional who do whatever it takes to see the success of her efforts for the festival and Momoyo Hall.",
+      "This is to say she become straightforward when she lets her guard down; as a close friend and/or Sensei, she end up making mistakes more often.",
+    ],
+    personality: [
+      "Shizuko on the surface has the typical personality of an ideal Japanese woman, on the surface she has a friendly and calm personality mixed with the aspects of being an idol like image. However, beneath the surface shows cracks in her personality as she can get vindictive and aggressive when provoked. When she is around her friends, she tends to let her guard down and become more relaxed.",
+    ],
+    appearance: [""],
+    uniform: [
+      "She has a long brown hair tied in short pigtails reaching to her legs and a maid headdress with a pink bow. She has lavender eyes.",
+      'She wears a "traditional Japanese maid" or wa maid outfit inspired by Taisho Era mogu fashion, it is a pink Japanese kimono with flowery patterns, a long flowing skirt and a maid apron with stitched pink hearts. She also wears a knee-high white socks and a thick wooden geta.',
+    ],
+    haloInfo: [
+      "Shizuko's halo has two pastel pink hearts with circles merging together inside another circle with sharp arrow on the side.",
+    ],
+    firearm:
+      "https://static.wikia.nocookie.net/blue-archive/images/3/3c/Shizuko_UE.png",
+    firearmInfo:
+      'A pump-action shotgun used by Shizuko. According to Shizuko, "It\'s the only one of its kind in the world", with a faint scent of red bean paste, a specialty of Hyakkiyako.',
+    firearmName: "Sakura Bon Bon",
+    l2d:
+      "https://static.wikia.nocookie.net/blue-archive/images/c/c2/Shizuko_Live2D.gif",
+    l2dIcon:
+      "https://static.wikia.nocookie.net/blue-archive/images/e/ee/Shizuko_Icon_2.png",
+    trivia: [""],
+    voice: "",
+  },
+
+  shun: {
+    fName: "Shun",
+    lName: "Sunohara",
+    jpName: "春原シュン",
+    quote: "Great, great. Everyone did well!",
+    icon:
+      "https://static-new.miraheze.org/bluearchivewiki/thumb/1/17/Shun.png/266px-Shun.png",
+    icon1:
+      "https://static.wikia.nocookie.net/blue-archive/images/f/fa/Shun_Icon.png/",
+    portrait:
+      "https://static.wikia.nocookie.net/blue-archive/images/2/25/Shun_Portrait.png",
+    sprite:
+      "https://static.wikia.nocookie.net/blue-archive/images/c/c2/Shun_Sprite.png",
+    halo:
+      "https://static.wikia.nocookie.net/blue-archive/images/a/a0/Shun_Halo.png",
+    introduction: [
+      'Instructor of the Training Support Department "Plum Blossom Garden" of Shanhaijing Senior Secondary School.',
+      '"Plum Blossom Garden" is not only the name of the garden, but also the name of club activities. She has a gentle and generous personality and is trusted not only by the children of "Plum Blossom Garden" but also by other students of Shanhaijing. She has worked as an instructor for a long time and rarely gets angry at the pranks of the children, but she is sensitive when her age is mentioned.',
+    ],
+    personality: [""],
+    appearance: [""],
+    uniform: [""],
+    haloInfo: [""],
+    firearm:
+      "https://static.wikia.nocookie.net/blue-archive/images/d/d6/Shun_UE.png",
+    firearmInfo:
+      "A sniper rifle used by Shun. No matter how troubled a child may be, when Shun brings out this gun, they will start behaving. Of course, she never points it at the children.",
+    firearmName: "Rod of Love",
+    l2d:
+      "https://static.wikia.nocookie.net/blue-archive/images/f/fd/Shun_Live2D.gif",
+    l2dIcon:
+      "https://static.wikia.nocookie.net/blue-archive/images/8/8b/Shun_Icon_2.png",
+    trivia: [""],
+    voice: "",
+  },
+
+  shun_small: {
+    fName: "Shun (small)",
+    lName: "Sunohara",
+    jpName: "春原シュン (幼女 Ver.)",
+    quote: "Phew, let's play together again, sensei!",
+    icon:
+      "https://static-new.miraheze.org/bluearchivewiki/5/53/Shun_%28Kid%29.png?version=776ca03fbe46a915e527ec6150a76291",
+    icon1:
+      "https://static.wikia.nocookie.net/blue-archive/images/4/47/Shun_Young_Icon.png",
+    portrait:
+      "https://static.wikia.nocookie.net/blue-archive/images/9/93/Shun_Young_Portrait.png",
+    sprite: "",
+    halo:
+      "https://static.wikia.nocookie.net/blue-archive/images/a/a0/Shun_Halo.png",
+    introduction: [
+      "This is Shun, who has reverted to her childhood body after taking Saya's medicine! Not only her body, but also her spirit seems to have been pulled along by her young body, and she tends to act according to her instincts...",
+    ],
+    personality: [
+      "Normally quite calm, Shun's new youth has given her youthful vigor, resulting in a peppier, more energetic personality. She's also quite childish, wanting to play more, specifically with Sensei. This clashes with her knowledge of Shanhaijing and her general intelligence.",
+      "Throughout the event, Shun's initial frustrations with her responsibilities resulted in her being petty and selfish, willing to lie and take advantage of her child status to get what she wants.",
+    ],
+    appearance: [""],
+    uniform: [""],
+    haloInfo: [""],
+    firearm:
+      "https://static.wikia.nocookie.net/blue-archive/images/d/d6/Shun_UE.png",
+    firearmInfo:
+      "A sniper rifle used by Shun. No matter how troubled a child may be, when Shun brings out this gun, they will start behaving. Of course, she never points it at the children.",
+    firearmName: "Rod of Love",
+    l2d:
+      "https://static.wikia.nocookie.net/blue-archive/images/6/6b/Shun_Young_Live2D.gif",
+    l2dIcon:
+      "https://static.wikia.nocookie.net/blue-archive/images/d/d6/Shun_Young_Icon_2.png",
+    trivia: ["She achieved this form by taking Saya's medicine."],
+    voice: "",
+  },
+
+  sumire: {
+    fName: "Sumire",
+    lName: "Otohana",
+    jpName: "乙花スミレ",
+    quote: "Do you want today's training to be a practical?",
+    icon:
+      "https://static-new.miraheze.org/bluearchivewiki/d/d6/Sumire.png?version=46f7fecb2015c30b72817333679c13bd",
+    icon1:
+      "https://static.wikia.nocookie.net/blue-archive/images/e/e5/Sumire_Icon.png",
+    portrait:
+      "https://static.wikia.nocookie.net/blue-archive/images/a/ae/Sumire_Portrait.png",
+    sprite:
+      "https://static.wikia.nocookie.net/blue-archive/images/d/d3/Sumire_Sprite.png",
+    halo:
+      "https://static.wikia.nocookie.net/blue-archive/images/a/a2/Sumire_Halo.png",
+    introduction: [
+      "The Leader of the Gym Training Department at Millennium School. She is a sports-oriented girl who always strives to train. She is also a musclehead who believes that all the problems in the world can be solved with both muscles and exercise",
+    ],
+    personality: [
+      'Sumire takes training and exercising very seriously; she even refers to Sensei as her "Trainer".',
+    ],
+    appearance: [""],
+    uniform: [
+      "She has long black hair reaching her legs tied to a ponytail with a purple scrunchie, has violet flowers hairpin on her right bangs and green belted choker. She has purple eyes.",
+      "She wears a shiny white jacket with black lines and purple belt, a flower patterned sports bra, a black stretchy pants with purple sling and silver sneakers with purple shoelaces and green soles.",
+      "She also has green armband, a clover necklace and an orange visor hanging in her sports bra.",
+    ],
+    haloInfo: [
+      "Sumire's halo is a violet bulky dashed pentagon with a hollowed five petal flower inside a smaller circle.",
+    ],
+    firearm:
+      "https://static.wikia.nocookie.net/blue-archive/images/2/28/Sumire_UE.png",
+    firearmInfo:
+      "A shotgun that Sumire usually uses while exercising. It has a function that if you do push-ups every time you shoot it, you will naturally become healthier.",
+    firearmName: "Millenium-made Latest Dumbbell",
+    l2d:
+      "https://static.wikia.nocookie.net/blue-archive/images/0/05/Sumire_Live2D.gif",
+    l2dIcon:
+      "https://static.wikia.nocookie.net/blue-archive/images/a/a2/Sumire_Icon_2.png",
+    trivia: [
+      "The uniquely large trigger guard her gun has is especially problematic since its blocking the loading port. Meaning the only way this could be reloaded is either through the ejection port or through some Millennium technology we're yet to observe.",
+    ],
+    voice:
+      "https://static.wikia.nocookie.net/blue-archive/images/5/59/Sumire_LogIn_1.ogg",
+  },
+
+  suzumi: {
+    fName: "Suzumi",
+    lName: "Morizuki",
+    jpName: "守月スズミ",
+    quote: "I'll start to patrol this area.",
+    icon:
+      "https://static-new.miraheze.org/bluearchivewiki/thumb/0/07/Suzumi.png/266px-Suzumi.png",
+    icon1:
+      "https://static.wikia.nocookie.net/blue-archive/images/d/d8/Suzumi_Icon.png",
+    portrait:
+      "https://static.wikia.nocookie.net/blue-archive/images/7/7f/Suzumi_Portrait.png",
+    sprite:
+      "https://static.wikia.nocookie.net/blue-archive/images/8/84/Suzumi_Sprite.png",
+    halo:
+      "https://static.wikia.nocookie.net/blue-archive/images/4/4c/Suzumi_Halo.png",
+    introduction: [
+      "A member of the Vigilante Corps. that protects the safety of the students of Trinity Academy.",
+      "Due to the frequent incidents of Trinity students being attacked by other schools, the Vigilante Corps began patrolling around town in defense of this. Her burning sense of justice often leads her to be misunderstood as cold-hearted and cruel student, but she is actually a girlish girl at her age who loves cute things.",
+    ],
+    personality: [
+      "She takes her duties very seriously which coupled with her stern expression, gives off a very cold impression. However, she does have a kind heart underneath all that.",
+    ],
+    appearance: "",
+    uniform: [
+      "She has long white hair reaching to her waist with some kind of wing tied on her left side. She had red eyes.",
+      "She wears a standard uniform, wearing a gray sailor dress with two black strips on the skirt and sleeves, white collar and a red thin ribbon with Trinity access badge clipped on the collar, a matching short cape bearing Trinity school insignia, a black belted corset, a brown uwabaki with stockings underneath.",
+    ],
+    haloInfo: [
+      "Suzumi's halo has a pale purple crosshair with arrows pointing outward along the edges.",
+    ],
+    firearm:
+      "https://static.wikia.nocookie.net/blue-archive/images/f/fd/Suzumi_UE.png",
+    firearmInfo:
+      "An assault rifle that Suzumi carries. In a sense, it is like a partner for Suzumi, who often patrols the city alone.",
+    firearmName: "Safety",
+    l2d: "",
+    l2dIcon:
+      "https://static.wikia.nocookie.net/blue-archive/images/9/99/Suzumi_Icon_2.png",
+    trivia: [
+      'A recurring punishment she uses on delinquents is tying them up to a pillar and forcing them to listening to "Baby" by Austin Dieber..',
+      'This is a reference to the song "Baby" by Justin Bieber which was memed for being one of the most disliked songs that he made. Funnily enough due to this meme being so old, the delinquents also insulted her because of the song being so old.',
+      "Originally, her gun's handguard was inscribed with the quote \"Vanitas Vanitatum, et Omnia Vanitas\"—the same quote that now appears on Azusa's gun. This was later removed, but not before players began speculating about whether or not Suzumi had a connection to Arius.",
+      "Suzumi's concept shares similarities to British CTSFO (Counter Terrorist Specialist Firearms Officer) as she shared some elements such as using MCX assault rifle, commonly used by CTSFOs, and similar uniform's colour scheme.",
+    ],
+    voice: "",
+  },
+
+  tomoe: {
+    fName: "Tomoe",
+    lName: "Sashiro",
+    jpName: "佐城トモエ",
+    quote: "Hmm, don't you think Chairman Cherino's beard is cute?",
+    icon:
+      "https://static-new.miraheze.org/bluearchivewiki/0/0a/Tomoe.png?version=d5dbbb140c7cfee0e2c69f571f0ad275",
+    icon1:
+      "https://static.wikia.nocookie.net/blue-archive/images/3/3d/Tomoe_Icon.png",
+    portrait:
+      "https://static.wikia.nocookie.net/blue-archive/images/c/cc/Tomoe_Portrait.png",
+    sprite:
+      "https://static.wikia.nocookie.net/blue-archive/images/c/cb/Tomoe_Sprite.png",
+    halo:
+      "https://static.wikia.nocookie.net/blue-archive/images/9/9c/Tomoe_Halo.png",
+    introduction: [
+      "Tomoe from the Red Winter Office. She seems to be playing an active(?) role as Cherino's faithful right hand in this event. It looks like she's doing just that.",
+    ],
+    personality: [
+      "She's extremely obsessed with Cherino to the point of knowing virtually everything about her. In short, she's a walking Cherino encyclopedia.",
+    ],
+    appearance: [""],
+    uniform: [""],
+    haloInfo: [""],
+    firearm:
+      "https://static.wikia.nocookie.net/blue-archive/images/b/b2/Tomoe_UE.png",
+    firearmInfo:
+      "A sniper rifle used by Tomoe. It is equipped with a high-powered sight, and can detect any rebels who question President Cherino's authority, even from a considerable distance.",
+    firearmName: "Vernost",
+    l2d:
+      "https://static.wikia.nocookie.net/blue-archive/images/d/db/Tomoe_Live2D.gif",
+    l2dIcon:
+      "https://static.wikia.nocookie.net/blue-archive/images/7/7d/Tomoe_Icon_2.png",
+    trivia: [""],
+    voice: "",
+  },
+
+  tsubaki: {
+    fName: "Tsubaki",
+    lName: "Kasuga",
+    jpName: "春日ツバキ",
+    quote: "Thanks for the hard work, Sensei. Can I go to sleep already?",
+    icon:
+      "https://static-new.miraheze.org/bluearchivewiki/6/6a/Tsubaki.png?version=f2b1f5a055e72a46ea1489e885664599",
+    icon1:
+      "https://static.wikia.nocookie.net/blue-archive/images/1/1b/Tsubaki_Icon.png",
+    portrait:
+      "https://static.wikia.nocookie.net/blue-archive/images/0/06/Tsubaki_Portrait.png",
+    sprite: "",
+    halo:
+      "https://static.wikia.nocookie.net/blue-archive/images/4/47/Tsubaki_Halo.png",
+    introduction: [
+      "Enrolled at Hyakkiyako Alliance Academy, Tsubaki is president of the Etiquette Training Society.",
+      "Notorious as a serial sleepyhead, Tsubaki is always taking naps during the day, so her responsibilities as club president are effectively entirely handled by her friend Mimori",
+      "Despite her lazy daytime habits, she engaged secretly defending Hyakkiyako at nighttime.",
+    ],
+    personality: [
+      "Being a true sleepyhead, she can sleep virtually anywhere in any number of ways. Despite this, she's not defenseless as she was able to flawlessly dodge gunfire from a bunch of thugs while in deep sleep.",
+    ],
+    appearance: [""],
+    uniform: [
+      "She has a short brown hair with round raccoon ears and dark blue eyes.",
+      "She wears a standard uniform, a pale sleeveless sailor dress with red collar, red pleated skirt weaved in black string on the slits, a red knot with large gold bead tying her outfit and a similar colored geta boots.",
+    ],
+    haloInfo: [
+      "Tsubaki's halo is five circles with a dot creating a flower inside two larger pentagons with spikes on the outer layers.",
+    ],
+    firearm:
+      "https://static.wikia.nocookie.net/blue-archive/images/5/5c/Tsubaki_UE.png",
+    firearmInfo:
+      "A submachine gun used by Tsubaki. She chose a small model so that it would not get in the way of her daily training. By the way, I is a pillow inside the shield.",
+    firearmName: "Nocturnal Courage",
+    l2d:
+      "https://static.wikia.nocookie.net/blue-archive/images/4/42/Tsubaki_Live2D.gif",
+    l2dIcon:
+      "https://static.wikia.nocookie.net/blue-archive/images/7/7e/Tsubaki_Icon_2.png",
+    trivia: [""],
+    voice: "",
+  },
+
+  tsukoyo: {
+    fName: "Tsukoyo",
+    lName: "Oono",
+    jpName: "大野ツクヨ",
+    quote:
+      "I'll do... my best...! To fulfill my wish... of becoming a splendid ninja...!",
+    icon:
+      "https://static-new.miraheze.org/bluearchivewiki/thumb/c/ce/Tsukuyo.png/266px-Tsukuyo.png",
+    icon1:
+      "https://static.wikia.nocookie.net/blue-archive/images/5/54/Tsukuyo_Icon.png",
+    portrait:
+      "https://static.wikia.nocookie.net/blue-archive/images/9/9e/Tsukuyo_Portrait.png",
+    sprite:
+      "https://static.wikia.nocookie.net/blue-archive/images/6/66/Tsukuyo_Sprite.png",
+    halo:
+      "https://static.wikia.nocookie.net/blue-archive/images/7/70/Tsukuyo_Halo.png",
+    introduction: [
+      "Tsukuyo is a member of the Ninjutsu Research Department! She's very sensitive about her large size and often worries about being too big. Due to her childhood experiences, she's become an introvert that struggles to talk to others. However, with Michiru, who she respects, and fellow ninja enthusiast Izuna, she seems to be able to tackle on the Ninjutsu Research Department's activities with a positive attitude!",
+    ],
+    personality: [""],
+    appearance: [""],
+    uniform: [""],
+    haloInfo: [""],
+    firearm:
+      "https://static.wikia.nocookie.net/blue-archive/images/f/f2/Tsukuyo_UE.png",
+    firearmInfo:
+      "A submachine gun that Tsukuyo cherishes. It's a guns that Michiru and Izuna had decorated and modified in various ways for Tsukuyo, who is not very good at handling guns. It is irreplaceable for Tsukuyo, and at important moments, she holds the barrel of the gun even more tenderly.",
+    firearmName: "Tsukuyo-Style Submachine Gun",
+    l2d:
+      "https://static.wikia.nocookie.net/blue-archive/images/0/06/Tsukuyo_EX.gif",
+    l2dIcon:
+      "https://static.wikia.nocookie.net/blue-archive/images/b/bd/Tsukuyo_Icon_2.png",
+    trivia: [
+      "Tsukuyo is the first student that has two victory poses, as opposed to only one.",
+    ],
+    voice: "",
+  },
+
+  tsurugi: {
+    fName: "Tsurugi",
+    lName: "Kenzaki",
+    jpName: "剣先ツルギ",
+    quote: "Destruction! I'll destroy it!!!!",
+    icon:
+      "https://static-new.miraheze.org/bluearchivewiki/thumb/c/c1/Tsurugi.png/266px-Tsurugi.png",
+    icon1:
+      "https://static.wikia.nocookie.net/blue-archive/images/f/fb/Tsurugi_Icon.png",
+    portrait:
+      "https://static.wikia.nocookie.net/blue-archive/images/4/49/Tsurugi_Portrait.png",
+    sprite:
+      "https://static.wikia.nocookie.net/blue-archive/images/a/ab/Tsurugi_Sprite.png",
+    halo:
+      "https://static.wikia.nocookie.net/blue-archive/images/4/48/Tsurugi_Halo.png",
+    introduction: [
+      "While enrolled as a student of Trinity and chairman of the Justice Realization Committee, Tsurugi is also the Trinity's strategic weapon.",
+      "She is belligerent, violent, and possesses a destroy-first, think-later attitude towards whatever she finds disagreeable. Due to the efforts of its vice-chairman, Hasumi, the Committee has (just barely) kept under control.",
+      "Tsurugi may be an uncontrollable mad dog, but in front of Sensei, she can't help but reveal her feminine side and is unable to hide her shyness.",
+    ],
+    personality: [
+      "At first glance, Tsurugi gives the appearance of a deranged psycho. When in battle, she has a habit of a destroy-first, think-later attitude and often laughs uncontrollably. However whenever she's around Sensei as well as her friends, she easily shows her true colors, she gets very shy, shows her feminine side, and has a heart of gold.",
+    ],
+    appearance: [
+      "She has long, wavy black hair. She has a red, sharp-looking choker, and a red rim on her collar.",
+    ],
+    uniform: [
+      "She has black messy long hair reaching the floor with straight bangs and two long cowlicks, dark red eyes, and large black disheveled angel wings on the back.",
+      "She wears a standard uniform, wearing a black sailor dress with red strip on the sleeves, her black tattered skirt tainted with blood splotches all over and red untied ribbon on the neck. She also wears a red webbed choker on her neck, black nail polish, and black boots with red shoelaces.",
+    ],
+    haloInfo: ["Tsurugi's halo was a bloody red circle dripping from the rim."],
+    firearm:
+      "https://static.wikia.nocookie.net/blue-archive/images/4/41/Tsurugi_UE.png",
+    firearmInfo:
+      'Two shotguns used by Tsurugi. They are named "Blood" and "Gunpowder," respectively, but from the outside they are not very distinguishable.',
+    firearmName: "Blood & Gunpowder",
+    l2d:
+      "https://static.wikia.nocookie.net/blue-archive/images/e/e6/Tsurugi_Live2D.gif",
+    l2dIcon:
+      "https://static.wikia.nocookie.net/blue-archive/images/c/c7/Tsurugi_Icon_2.png",
+    trivia: [""],
+    voice: "",
+  },
+
+  ui: {
+    fName: "Ui",
+    lName: "Kozeki",
+    jpName: "古関ウイ",
+    quote: "Can...can I go home now?",
+    icon:
+      "https://static-new.miraheze.org/bluearchivewiki/1/18/Ui.png?version=9d1ebe8f93c452bc3cea698a3676d4e7",
+    icon1:
+      "https://static.wikia.nocookie.net/blue-archive/images/f/f8/Ui_Icon.png",
+    portrait:
+      "https://static.wikia.nocookie.net/blue-archive/images/8/88/Ui_Portrait.png",
+    sprite: "",
+    halo:
+      "https://static.wikia.nocookie.net/blue-archive/images/4/41/Ui_Halo.png",
+    introduction: [
+      'Ui, the head of the Library Book committee, has first-class knowledge and skills regarding old books, and is called "the magician of the antiquarian bookstore" by those around her. She usually stays in a place called "Antiquarian Bookstore" to decipher and manage old books...',
+    ],
+    personality: [""],
+    appearance: [""],
+    uniform: [""],
+    haloInfo: [""],
+    firearm:
+      "https://static.wikia.nocookie.net/blue-archive/images/a/a9/Ui_UE.png",
+    firearmInfo:
+      "An assault rifle used by Ui when the her surrounding becomes too loud. As the name suggests, it can make the target quiet.",
+    firearmName: "Volume Suppressor",
+    l2d: "https://static.wikia.nocookie.net/blue-archive/images/c/c0/Ui_EX.gif",
+    l2dIcon:
+      "https://static.wikia.nocookie.net/blue-archive/images/d/df/Ui_Icon_2.png",
+    trivia: [""],
+    voice: "",
+  },
+
+  utaha: {
+    fName: "Utaha",
+    lName: "Shiraishi",
+    jpName: "白石ウタハ",
+    quote: "Technology Advantage is what determines its victory.",
+    icon:
+      "https://static-new.miraheze.org/bluearchivewiki/thumb/3/37/Utaha.png/266px-Utaha.png",
+    icon1:
+      "https://static.wikia.nocookie.net/blue-archive/images/8/8b/Utaha_Icon.png",
+    portrait:
+      "https://static.wikia.nocookie.net/blue-archive/images/2/25/Utaha_Portrait.png",
+    sprite: "",
+    halo:
+      "https://static.wikia.nocookie.net/blue-archive/images/d/dc/Utaha_Halo.png",
+    introduction: [
+      "The Head of the Engineering Dept. at Millennium School.",
+      "True to her title, she has been developing a wide variety of robots. In particular, the robot she always carries with her, Rai-chan, is known to have capabilities that rival hundreds of PMC Automata.",
+    ],
+    personality: [""],
+    appearance: [""],
+    uniform: [
+      "She has violet long hair reaching her legs tied at the end with a similar cybernetic wing on her halo. She has bright red eyes and black glasses.",
+      "She wears a shiny lab coat and a standard uniform, including a black sweater clipped with a Millennium access badge, a white shirt and blue tie underneath and a pleated white skirt. She wears black tights and black uwabaki.",
+    ],
+    haloInfo: [
+      "Utaha's halo has a pink digital-framed hexagon with a similar designed rhombus inside. Also her halo has a cybernetic wing on each sides. She has violet eyes.",
+    ],
+    firearm:
+      "https://static.wikia.nocookie.net/blue-archive/images/6/6f/Utaha_UE.png",
+    firearmInfo:
+      "A submachine gun with a simple design modified by Utaha herself. It is also highly durable, and can be used as a tool, just like a hammer.",
+    firearmName: "Meister · Zero",
+    l2d:
+      "https://static.wikia.nocookie.net/blue-archive/images/6/6e/Utaha_Live2D.gif",
+    l2dIcon:
+      "https://static.wikia.nocookie.net/blue-archive/images/7/7a/Utaha_Icon_2.png",
+    trivia: [
+      'She names her turrets "Ikazuchi-chan".',
+      "While the CG shows the turrets having five barrels, the in-game models only show three barrels.",
+    ],
+    voice:
+      "https://static.wikia.nocookie.net/blue-archive/images/a/a6/Utaha_LogIn_2.ogg",
+  },
+
+  wakamo: {
+    fName: "Wakamo",
+    lName: "Kosaka",
+    jpName: "狐坂ワカモ",
+    quote: "Mmmmmmmm...Well then, let's get started, shall we?",
+    icon:
+      "https://static-new.miraheze.org/bluearchivewiki/a/a7/Wakamo.png?version=6f990eba51a3a595335d51962fd9904d",
+    icon1:
+      "https://static.wikia.nocookie.net/blue-archive/images/3/35/Wakamo_Icon.png",
+    portrait:
+      "https://static.wikia.nocookie.net/blue-archive/images/d/da/Wakamo_Mask_Portrait.png",
+    sprite:
+      "https://static.wikia.nocookie.net/blue-archive/images/9/91/Wakamo_Sprite.png",
+    halo:
+      "https://static.wikia.nocookie.net/blue-archive/images/a/a3/Wakamo_Halo.png",
+    introduction: [
+      'Wakamo is a suspended student from Hyakkiyako Alliance Academy and one of the "Seven Prisoners" who escaped from the Federal Corrections Bureau. She is known as the "Fox of Calamity" for her indiscriminate and massive acts of destruction, and her motives and purpose are a mystery. she is also rumored to be as scary as a demon with her true face hidden beneath her mask...',
+      "When she met sensei for the first time, she didn't attack nor point a gun at them however, for some reason she got upset and ran away.",
+      'The event "The Silence and Feast of Kosaka Wakamo" reveals that she actually fell in love with Sensei at first sight when this happened.',
+    ],
+    personality: [
+      "Wakamo is naturally inclined to anarchy and destruction, preferring to cause chaos and rampage wherever she goes. This got her into trouble with the police and imprisoned in the Correctional Bureau.",
+      "After she meets Sensei however, this changes... Slightly. She still has a desire for violence and destruction, but it is tempered by her obsession and love for Sensei. Since Sensei convinced her to restrain herself, Wakamo generally tries to hold back and not cause too much trouble.",
+    ],
+    appearance: [""],
+    uniform: [
+      "She wears some sort of furisode with asymmetrical leggings and boots, alongside a kitsune fox mask. After her event, she occasionally walks around the city in a more traditional pink kimono.",
+    ],
+    haloInfo: [
+      "It seems to be a black cherry blossom surrounded by a combined sniper sight/anarchy symbol.",
+    ],
+    firearm:
+      "https://static.wikia.nocookie.net/blue-archive/images/7/72/Wakamo_UE.png",
+    firearmInfo:
+      "Wakamo's favorite rifle. Contrary to its old-fashioned appearance, it always smells of flame and gunpowder. Currently, it is often fired at \"obstacles\" around the teacher's surroundings.",
+    firearmName: "Crimson Calamity",
+    l2d:
+      "https://static.wikia.nocookie.net/blue-archive/images/b/ba/Wakamo_Live2D.gif",
+    l2dIcon:
+      "https://static.wikia.nocookie.net/blue-archive/images/7/7e/Wakamo_Icon_2.png",
+    trivia: [
+      "Her Defence Type was labelled Light Armor during the 1st anniversary Livestream. However, her Skill Introduction was incorrectly labelled as Special Armor before it was corrected.",
+      "She is the second student who is 18 years old with the first being Kayoko.",
+      "She is the first limited student who is neither an alternate variant nor collaboration character.",
+      "She is also the first student: ",
+      "Whose banner has a higher rate-up than usual, in exchange for a shorter gacha period.",
+      "This is to celebrate the 1st Anniversary.",
+      "Who has 2 positive affinities towards 2 of the 3 terrains for a 3 star rarity.",
+      'She is also known as "The Fox of Calamity".',
+      "Her name and motif is based on the Tamamo no Mae's intermediate form as the youth stealer. in a not so subtle reference to Tamamo no Mae, Wakamo shares the same seiyuu as Fate's Tamamo no Mae",
+      "She is one of the few students who has a removable piece of accessory by pressing 🔁 in the main menu.",
+      "In her case, it's her mask.",
+      "Due to sharing a similar red-black color scheme, kitsune motifs and an obsession with the player character, Wakamo is often compared with Akagi from Azur Lane. They do not share the same voice actors however.",
+      "Strangely enough the Type 30 bayonet she is using has a missing muzzle ring. This means it is only held in place by the bayonet lug alone. The muzzle ring here is important since it stabilizes the bayonet attachment to the rifle.",
+    ],
+    voice: "",
+  },
+
+  yoshimi: {
+    fName: "Yoshimi",
+    lName: "Ibaragi",
+    jpName: "伊原木ヨシミ",
+    quote:
+      "Don't underestimate me just because I'm puny! My future is going to be amazing!",
+    icon:
+      "https://static-new.miraheze.org/bluearchivewiki/thumb/c/c2/Yoshimi.png/266px-Yoshimi.png",
+    icon1:
+      "https://static.wikia.nocookie.net/blue-archive/images/8/84/Yoshimi_Icon.png",
+    portrait:
+      "https://static.wikia.nocookie.net/blue-archive/images/0/0b/Yoshimi_Portrait.png",
+    sprite:
+      "https://static.wikia.nocookie.net/blue-archive/images/e/ef/Yoshimi_Sprite.png",
+    halo:
+      "https://static.wikia.nocookie.net/blue-archive/images/1/1b/Yoshimi_Halo.png",
+    introduction: [
+      "A member of the After-School Sweets Club at Trinity General School. She has a complex about her height and physique, and always gives the impression of an angry small animal.",
+      "Despite wanting to look mature, she is always doted on for how her thoughts are reflected unchanged in her facial expression. Yoshimi's pastime is visiting cafes, tasting limited edition sweets and occasionally— smiles brighter than anyone else.",
+    ],
+    personality: [""],
+    appearance: [""],
+    uniform: [
+      "She has a long blond hair with a cowlick tied in twin tails with pink ribbons and brown eyes.",
+      "She wears a red varsity jacket with standard uniform, a white sailor dress with black collar and pink pleated skirt underneath. She also wears black long socks with red stripes on the rim, white sneakers with red lines and carries pink schoolbag with rabbit accessory.",
+    ],
+    haloInfo: [
+      "Yoshimi's halo has a neon yellow circle with another smaller circle inside and has 2 earlaps.",
+    ],
+    firearm:
+      "https://static.wikia.nocookie.net/blue-archive/images/9/99/Yoshimi_UE.png",
+    firearmInfo:
+      "Yoshimi's special rifle. In order to win the battle over sweets in Kivotos, you must first have fighting skills.",
+    firearmName: "Sweets Driver",
+    l2d:
+      "https://static.wikia.nocookie.net/blue-archive/images/f/f7/Yoshimi_Live2D.gif",
+    l2dIcon:
+      "https://static.wikia.nocookie.net/blue-archive/images/9/90/Yoshimi_Icon_2.png",
+    trivia: [""],
+    voice: "",
+  },
+
+  yuuka: {
+    fName: "Yuuka",
+    lName: "Hayase",
+    jpName: "早瀬ユウカ",
+    quote: "Lucky? No, it's just as calculated.	",
+    icon:
+      "https://static-new.miraheze.org/bluearchivewiki/3/3e/Yuuka.png?version=9302ed1401f73522e2b3b24520e69726",
+    icon1:
+      "https://static.wikia.nocookie.net/blue-archive/images/7/7b/Yuuka_Icon.png",
+    portrait:
+      "https://static.wikia.nocookie.net/blue-archive/images/8/86/Yuuka_Portrait.png",
+    sprite:
+      "https://static.wikia.nocookie.net/blue-archive/images/0/09/Yuuka_Sprite.png",
+    halo:
+      "https://static.wikia.nocookie.net/blue-archive/images/4/4e/Yuuka_Halo.png",
+    introduction: [
+      'The treasurer of the Millennium Academy Student Council, "Seminar". She is strict about money and often quarrels with other club activities from her standpoint.',
+      "A prominent mathematical genius even amongst Millennium's STEM-rich student base, she supervises the budget management of the Millennium. She is good at abacus and has a habit of counting it to compose herself down when faced with complex and troubling matters.",
+    ],
+    personality: [
+      "Yuuka is generally polite, professional and easy to deal with if you treat her well. However, most of the people she interacts with in the story are very difficult to deal with, which leads to angry outbursts. This earns her a reputation as cold and ruthless, even though she really isn't. She takes pride in her mathematical skills to the point of stubbornly refusing to believe in the randomness of a poker game with Sensei, allowing easy manipulation. She will also try to cover up her own mistakes due to her pride, such as when she pretended to spend less than 10000 yen on chocolate for Sensei by splitting the receipt.",
+      "When it comes to Sensei she is endlessly annoyed for having to take responsibility for their spending habits via accounting and telling them to spend less, but admires the determination to take care of students and tactical prowess, leading to feelings to develop.",
+    ],
+    appearance: [
+      "Yuuka has long, navy blue hair reaching to her waist with pigtails tied with a triangle device similar to her halo. She has bright blue eyes.",
+    ],
+    uniform: [
+      "She wears a standard uniform, along with a white and blue hoodie, a black and white blazer clipped with Millennium access badge, a tucked-in white shirt with blue tie underneath and a black pleated skirt, the latter styling a white belt with attached bullet pouches.",
+      "She wears sleeveless black gloves on both her hands, and a pair of black boots with blue tags.",
+    ],
+    haloInfo: [
+      "Yuuka's halo is a black circle with blue line in the middle inside like a visor.",
+    ],
+    firearm:
+      "https://static.wikia.nocookie.net/blue-archive/images/b/b2/Yuuka_UE.png",
+    firearmInfo:
+      "Two machine guns used by Yuuka. They help Yuuka to make rational and intelligent decisions at critical times and when appropriate action is needed.",
+    firearmName: "Logic & Reason",
+    l2d:
+      "https://static.wikia.nocookie.net/blue-archive/images/e/e1/Yuuka_Live2D.gif",
+    l2dIcon:
+      "https://static.wikia.nocookie.net/blue-archive/images/2/21/Yuuka_Icon_2.png",
+    trivia: [
+      "She is the only student whose requires a bond level of 1 to unlock her Live2D.",
+      "This is because she act as the tutorial for Momotalk which is the place where teachers can chat and unlock live2D.",
+      'Nicknamed as "Ruthless Arithmetic" by Saiba Momoi due to her personality.',
+      'In addition she\'s also mentioned as "Cold, Unfeeling Accountant" in the Day 1 of the "Daily Quests with the Game Development Department!" event mission.',
+      "In fact two of her skills are mathematical based.",
+      'She became the star of her own video series on the Blue Archive channel called "Sensei, Can I Have a Moment of Your Time?", which were 1-minute shorts of Yuuka talking to Sensei about various topics, often to her own annoyance or embarassment. They were released weekly.',
+    ],
+    voice:
+      "https://static.wikia.nocookie.net/blue-archive/images/d/d1/Yuuka_LogIn_2.ogg",
+  },
+
+  yuzu: {
+    fName: "Yuzu",
+    lName: "Hanaoko",
+    jpName: "花岡ユズ",
+    quote: "I'm an ace pilot...in the game.	",
+    icon:
+      "https://static-new.miraheze.org/bluearchivewiki/7/71/Yuzu.png?version=bcb2703d1284cffb7ed6d44469dcb305",
+    icon1:
+      "https://static.wikia.nocookie.net/blue-archive/images/0/09/Yuzu_Icon.png",
+    portrait:
+      "https://static.wikia.nocookie.net/blue-archive/images/a/ac/Yuzu_Portrait.png",
+    sprite:
+      "https://static.wikia.nocookie.net/blue-archive/images/3/39/Yuzu_Sprite.png",
+    halo:
+      "https://static.wikia.nocookie.net/blue-archive/images/c/cc/Yuzu_Halo.png",
+    introduction: [
+      "This is Yuzu, the head of the Game Development Department at Millennium Science School. She's not very good at interacting with people, which is why she rarely goes out and spends most of her time locked within her locker room of Game Development. She loves to make and play games, and her passion for them that is nothing short of extraordinary!",
+    ],
+    personality: [""],
+    appearance: [""],
+    uniform: [
+      "She has salmon pink wavy hair with short pigtails, and a small braid in front. She has various white ribbons accessories attach throughout her hair. She wears a white, baggy jacket with various logos and black ends. Underneath it lies a yellow hoodie. In her left pocket, she appears to have a Nintendo Switch gaming system. She also wears white sandals with a yellow logo",
+    ],
+    haloInfo: [
+      "Yuzu's halo is gold colored and double-layered which ressembles a power button.",
+    ],
+    firearm:
+      "https://static.wikia.nocookie.net/blue-archive/images/6/6e/Yuzu_UE.png",
+    firearmInfo:
+      "A gun that Yuzu usually carries. On the side of the gun, an image of an adorable cat is constantly playing.",
+    firearmName: "Nyan's Dash",
+    l2d:
+      "https://static.wikia.nocookie.net/blue-archive/images/a/af/Yuzu_Live2D.gif",
+    l2dIcon:
+      "https://static.wikia.nocookie.net/blue-archive/images/2/22/Yuzu_Icon_2.png",
+    trivia: [
+      "A Nintendo Switch is attached on her firearm with the screen displaying the famous Nyan Cat.",
+    ],
+    voice:
+      "https://static.wikia.nocookie.net/blue-archive/images/e/e9/Yuzu_LogIn_1.ogg",
   },
 };
 
